@@ -23,10 +23,7 @@ background = "#0f101a"
 foreground = "#c5c9de"
 
 [cursor]
-style = "Beam"
-
-[cursor.Beam]
-thickness = 1.8
+style = { shape = "Beam", blinking = "Never" }
 
 [font]
 size = 10.5
