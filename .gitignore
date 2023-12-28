@@ -1,8 +1,8 @@
 # Ignore everything
 /*
+!.gitignore
 
 # Except for the files and folders we want to track
-!.gitignore
 !.config
 !.bashrc
 !.p10k.zsh
