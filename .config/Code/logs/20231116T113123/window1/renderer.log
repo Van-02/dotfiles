@@ -1,0 +1,10 @@
+2023-11-16 11:31:27.880 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-11-16 11:31:35.260 [info] [perf] Render performance baseline is 62ms
+2023-11-16 11:38:42.752 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ie.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-16 11:44:53.251 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ie.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)

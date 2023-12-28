@@ -1,0 +1,28 @@
+2023-12-20 03:10:49.879 [info] Experiment 'pythonaacf' is active
+2023-12-20 03:10:49.879 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2023-12-20 03:10:49.880 [info] Experiment 'pythonREPLSmartSend' is active
+2023-12-20 03:10:49.880 [info] Experiment 'pythonTestAdapter' is active
+2023-12-20 03:10:50.058 [info] Default formatter is set to ms-python.autopep8 for workspace /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:10:50.107 [info] Test server listening.
+2023-12-20 03:10:50.152 [info] Python interpreter path: /bin/python
+2023-12-20 03:10:51.847 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.149 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.149 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.149 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.149 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.149 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-12-20 03:10:52.150 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 03:10:52.150 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 03:10:52.150 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 03:10:52.150 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-12-20 03:11:00.642 [info] Starting Pylance language server.
+2023-12-20 03:11:38.216 [info] Discover tests for workspace name: Hello-Python - uri: /home/lalik/Workspace/curses/Hello-Python/02_operators.py
+2023-12-20 03:12:06.742 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:12:11.014 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:12:13.191 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:12:15.521 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:12:52.098 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:12:59.701 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:13:01.860 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:13:04.936 [info] Discover tests for workspace name: undefined - uri: /home/lalik/.config/Code/User/settings.json
+2023-12-20 03:14:25.892 [info] Discover tests for workspace name: Hello-Python - uri: /home/lalik/Workspace/curses/Hello-Python/02_operators.py

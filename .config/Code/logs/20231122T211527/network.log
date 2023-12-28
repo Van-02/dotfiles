@@ -1,0 +1,3 @@
+2023-11-22 21:48:21.669 [error] electron #63: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2023-11-22 21:49:13.890 [error] electron #67: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2023-11-22 21:49:17.067 [error] electron #68: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR

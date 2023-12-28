@@ -1,0 +1,40 @@
+2023-12-20 03:10:51.799 [info] Getting Manifest... ms-python.python
+2023-12-20 03:10:51.834 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-20 03:10:52.027 [info] Installing extension: ms-python.python
+2023-12-20 03:10:52.045 [info] Installing extension: ms-python.vscode-pylance
+2023-12-20 03:10:54.678 [info] Getting Manifest... ms-python.python
+2023-12-20 03:10:55.286 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-20 03:11:04.952 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-12-20 03:11:04.953 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-12-20 03:11:27.866 [info] Extracted extension to file:///home/lalik/.vscode/extensions/ms-python.python-2023.22.1: ms-python.python
+2023-12-20 03:11:28.134 [info] Renamed to /home/lalik/.vscode/extensions/ms-python.python-2023.22.1
+2023-12-20 03:11:28.179 [info] Extracting extension completed. ms-python.python
+2023-12-20 03:11:28.640 [info] Extension installed successfully: ms-python.python
+2023-12-20 03:11:28.642 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-12-20 03:11:28.720 [info] Marked extension as uninstalled ms-python.python-2023.22.0
+2023-12-20 03:11:32.578 [info] Extracted extension to file:///home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.12.1: ms-python.vscode-pylance
+2023-12-20 03:11:32.640 [info] Renamed to /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.12.1
+2023-12-20 03:11:32.651 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-20 03:11:32.707 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-20 03:11:32.770 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lalik/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lalik/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)
+2023-12-20 03:11:32.786 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.11.10
+2023-12-20 03:13:48.886 [info] Getting Manifest... vscodevim.vim
+2023-12-20 03:13:48.943 [info] Installing extension: vscodevim.vim
+2023-12-20 03:13:51.042 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2023-12-20 03:13:51.202 [info] Extracted extension to file:///home/lalik/.vscode/extensions/vscodevim.vim-1.27.1: vscodevim.vim
+2023-12-20 03:13:51.281 [info] Renamed to /home/lalik/.vscode/extensions/vscodevim.vim-1.27.1
+2023-12-20 03:13:51.290 [info] Extracting extension completed. vscodevim.vim
+2023-12-20 03:13:51.345 [info] Extension installed successfully: vscodevim.vim
+2023-12-20 03:13:51.425 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/lalik/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/lalik/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30053)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30167)
+    at s.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async K.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9535)

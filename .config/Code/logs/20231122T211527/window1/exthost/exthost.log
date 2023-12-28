@@ -1,0 +1,62 @@
+2023-11-22 21:15:35.920 [info] Extension host with pid 936 started
+2023-11-22 21:15:35.920 [info] Skipping acquiring lock for /home/lalik/.config/Code/User/workspaceStorage/de6ea99790a7a736f393b1c71be26ec2.
+2023-11-22 21:15:36.009 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-22 21:15:36.180 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.autopep8
+2023-11-22 21:15:37.208 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-22 21:15:37.602 [info] ExtensionService#_doActivateExtension ms-python.autopep8, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 21:15:37.743 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-11-22 21:15:38.640 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-22 21:15:38.743 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-22 21:15:39.170 [info] Eager extensions activated
+2023-11-22 21:15:39.280 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 21:15:39.330 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 21:15:39.391 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 21:15:39.511 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 21:15:39.822 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-11-22 21:15:41.441 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-22 21:15:41.570 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-22 21:24:14.953 [error] [ms-python.python] provider FAILED
+2023-11-22 21:24:14.982 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ie.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-22 21:29:45.729 [error] [ms-python.python] provider FAILED
+2023-11-22 21:29:45.729 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ie.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-22 21:42:22.343 [error] [ms-python.python] provider FAILED
+2023-11-22 21:42:22.373 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:133067
+	at _0x9ba18e (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:144828)
+	at async ie.provideCompletionItems (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:127:52281)
+2023-11-22 22:07:49.676 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-22 22:09:10.652 [info] ExtensionService#_doActivateExtension tomoki1207.pdf, startup: false, activationEvent: 'onCustomEditor:pdf.preview'
+2023-11-22 23:34:23.496 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-22 23:34:23.545 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-11-22 23:34:23.545 [error] TypeError: e.clear is not a function
+	at _.cleanUp (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412859)
+	at _.shutdown (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2412035)
+	at _.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2411463)
+	at _.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2577851)
+	at Object.stop (/home/lalik/.vscode/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:52694)
+	at Object.stop (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:167421)
+	at _0x245439.<computed>._stopClient (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110729)
+	at _0x245439.<computed>._createNewRequest (/home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist/extension.bundle.js:1:110308)
+2023-11-22 23:34:23.562 [error] Error: Channel has been closed
+	at s (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2490)
+	at Object.appendLine (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:135:2608)
+	at x.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649380)
+	at x.error (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:649271)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain.js:2:830260)
+	at ChildProcess.emit (node:events:513:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-22 23:34:23.563 [info] Extension host with pid 936 exiting with code 0

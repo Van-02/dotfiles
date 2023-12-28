@@ -1,0 +1,7 @@
+2023-12-07 16:08:15.230 [info] [Info  - 4:08:15 PM] (4652) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-07 16:08:15.231 [info] [Info  - 4:08:15 PM] (4652) Server root directory: /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-07 16:08:15.231 [info] [Info  - 4:08:15 PM] (4652) Starting service instance "Downloads"
+2023-12-07 16:08:15.283 [info] [Info  - 4:08:15 PM] (4652) Setting pythonPath for service "Downloads": "/bin/python"
+2023-12-07 16:08:15.283 [info] [Info  - 4:08:15 PM] (4652) Setting environmentName for service "Downloads": "3.11.5 (global)"
+2023-12-07 16:08:15.316 [info] [Info  - 4:08:15 PM] (4652) Assuming Python version 3.11
+2023-12-07 16:08:16.238 [info] [Info  - 4:08:16 PM] (4652) Found 5 source files

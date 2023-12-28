@@ -1,0 +1,1174 @@
+2023-11-22 21:15:39.232 [info] Name: autopep8
+2023-11-22 21:15:39.232 [info] Module: autopep8
+2023-11-22 21:15:39.232 [info] Default formatter is set to ms-python.autopep8 for workspace /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:39.232 [info] Python extension loading
+2023-11-22 21:15:39.232 [info] Waiting for interpreter from python extension.
+2023-11-22 21:15:39.232 [info] No interpreter found from setting autopep8.interpreter
+2023-11-22 21:15:39.232 [info] Getting interpreter from ms-python.python extension for workspace /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:39.232 [info] Python extension loaded
+2023-11-22 21:15:39.232 [info] Interpreter from ms-python.python extension for /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9: /bin/python
+2023-11-22 21:15:39.232 [info] No interpreter found from setting autopep8.interpreter
+2023-11-22 21:15:39.232 [info] Getting interpreter from ms-python.python extension for workspace /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:39.232 [info] Interpreter from ms-python.python extension for /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9: /bin/python
+2023-11-22 21:15:39.232 [info] Server run command: /bin/python /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool/lsp_server.py
+2023-11-22 21:15:39.232 [info] Server: Start requested.
+2023-11-22 21:15:42.521 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:42.525 [info] sys.path used to run Server:
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/libs
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2023-11-22 21:15:42.533 [info] PYTHONPATH env variable used to run Server:
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/libs:
+2023-11-22 21:15:42.545 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9",
+        "workspace": "file:///home/lalik/University/First%20Year/Algoritmo%20y%20estructuras%20de%20datos/Work%209",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2023-11-22 21:15:42.550 [info] Global settings:
+{
+    "cwd": "/home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9",
+    "workspace": "/home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2023-11-22 21:15:42.550 [info] /bin/python -m autopep8 --version
+2023-11-22 21:15:42.550 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:42.550 [info] Version info for formatter running for /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2023-11-22 21:15:42.550 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+
+2023-11-22 21:15:42.550 [info] /bin/python -m autopep8 --version
+2023-11-22 21:15:42.550 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:15:42.550 [info] Version info for formatter running for /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2023-11-22 21:15:42.550 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+
+2023-11-22 21:22:18.956 [info] [Trace - 9:22:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:20.328 [info] [Trace - 9:22:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:21.759 [info] [Trace - 9:22:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:24.695 [info] [Trace - 9:22:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:26.652 [info] [Trace - 9:22:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:27.465 [info] [Trace - 9:22:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:30.234 [info] [Trace - 9:22:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:38.125 [info] [Trace - 9:22:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:39.918 [info] [Trace - 9:22:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:40.168 [info] [Trace - 9:22:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:50.082 [info] [Trace - 9:22:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:55.073 [info] [Trace - 9:22:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:57.403 [info] [Trace - 9:22:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:22:57.779 [info] [Trace - 9:22:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:01.463 [info] [Trace - 9:23:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:03.267 [info] [Trace - 9:23:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:05.725 [info] [Trace - 9:23:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:10.322 [info] [Trace - 9:23:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:11.614 [info] [Trace - 9:23:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:12.078 [info] [Trace - 9:23:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:15.602 [info] [Trace - 9:23:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:16.893 [info] [Trace - 9:23:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:17.517 [info] [Trace - 9:23:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:22.599 [info] [Trace - 9:23:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:25.760 [info] [Trace - 9:23:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:32.300 [info] [Trace - 9:23:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:39.771 [info] [Trace - 9:23:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:40.843 [info] [Trace - 9:23:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:41.198 [info] [Trace - 9:23:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:44.213 [info] [Trace - 9:23:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:50.078 [info] [Trace - 9:23:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:51.077 [info] [Trace - 9:23:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:51.262 [info] [Trace - 9:23:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:53.685 [info] [Trace - 9:23:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:56.372 [info] [Trace - 9:23:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:57.654 [info] [Trace - 9:23:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:57.880 [info] [Trace - 9:23:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:23:58.669 [info] [Trace - 9:23:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:14.886 [info] [Trace - 9:24:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:17.065 [info] [Trace - 9:24:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:17.883 [info] [Trace - 9:24:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:20.548 [info] [Trace - 9:24:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:20.814 [info] [Trace - 9:24:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:22.630 [info] [Trace - 9:24:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:23.052 [info] [Trace - 9:24:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:24:34.607 [info] [Trace - 9:24:34 PM] Sending request 'textDocument/formatting - (1)'.
+2023-11-22 21:24:34.622 [info] [Trace - 9:24:34 PM] Received notification 'window/logMessage'.
+2023-11-22 21:24:34.622 [info] /bin/python -m autopep8 -
+2023-11-22 21:24:34.622 [info] [Trace - 9:24:34 PM] Received notification 'window/logMessage'.
+2023-11-22 21:24:34.622 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:24:35.075 [info] [Trace - 9:24:35 PM] Received response 'textDocument/formatting - (1)' in 468ms.
+2023-11-22 21:26:12.251 [info] [Trace - 9:26:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:12.350 [info] [Trace - 9:26:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:12.905 [info] [Trace - 9:26:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:13.121 [info] [Trace - 9:26:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:13.878 [info] [Trace - 9:26:13 PM] Sending request 'textDocument/formatting - (2)'.
+2023-11-22 21:26:13.889 [info] [Trace - 9:26:13 PM] Received notification 'window/logMessage'.
+2023-11-22 21:26:13.889 [info] /bin/python -m autopep8 -
+2023-11-22 21:26:13.889 [info] [Trace - 9:26:13 PM] Received notification 'window/logMessage'.
+2023-11-22 21:26:13.889 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:26:14.050 [info] [Trace - 9:26:14 PM] Received response 'textDocument/formatting - (2)' in 172ms.
+2023-11-22 21:26:38.948 [info] [Trace - 9:26:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:39.117 [info] [Trace - 9:26:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:39.290 [info] [Trace - 9:26:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:39.973 [info] [Trace - 9:26:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:42.342 [info] [Trace - 9:26:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:42.525 [info] [Trace - 9:26:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:42.690 [info] [Trace - 9:26:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:42.836 [info] [Trace - 9:26:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:26:43.524 [info] [Trace - 9:26:43 PM] Sending request 'textDocument/formatting - (3)'.
+2023-11-22 21:26:43.535 [info] [Trace - 9:26:43 PM] Received notification 'window/logMessage'.
+2023-11-22 21:26:43.535 [info] /bin/python -m autopep8 -
+2023-11-22 21:26:43.535 [info] [Trace - 9:26:43 PM] Received notification 'window/logMessage'.
+2023-11-22 21:26:43.535 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:26:43.705 [info] [Trace - 9:26:43 PM] Received response 'textDocument/formatting - (3)' in 182ms.
+2023-11-22 21:27:32.707 [info] [Trace - 9:27:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:33.704 [info] [Trace - 9:27:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:33.949 [info] [Trace - 9:27:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:35.293 [info] [Trace - 9:27:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:36.315 [info] [Trace - 9:27:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:36.484 [info] [Trace - 9:27:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:36.806 [info] [Trace - 9:27:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:37.998 [info] [Trace - 9:27:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:40.156 [info] [Trace - 9:27:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:40.279 [info] [Trace - 9:27:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:40.596 [info] [Trace - 9:27:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:40.885 [info] [Trace - 9:27:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:41.568 [info] [Trace - 9:27:41 PM] Sending request 'textDocument/formatting - (4)'.
+2023-11-22 21:27:41.577 [info] [Trace - 9:27:41 PM] Received notification 'window/logMessage'.
+2023-11-22 21:27:41.577 [info] /bin/python -m autopep8 -
+2023-11-22 21:27:41.577 [info] [Trace - 9:27:41 PM] Received notification 'window/logMessage'.
+2023-11-22 21:27:41.577 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:27:41.747 [info] [Trace - 9:27:41 PM] Received response 'textDocument/formatting - (4)' in 180ms.
+2023-11-22 21:27:50.983 [info] [Trace - 9:27:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:51.099 [info] [Trace - 9:27:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:51.475 [info] [Trace - 9:27:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:51.630 [info] [Trace - 9:27:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:53.479 [info] [Trace - 9:27:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:53.949 [info] [Trace - 9:27:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:54.173 [info] [Trace - 9:27:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:54.338 [info] [Trace - 9:27:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:27:55.342 [info] [Trace - 9:27:55 PM] Sending request 'textDocument/formatting - (5)'.
+2023-11-22 21:27:55.346 [info] [Trace - 9:27:55 PM] Received notification 'window/logMessage'.
+2023-11-22 21:27:55.346 [info] /bin/python -m autopep8 -
+2023-11-22 21:27:55.346 [info] [Trace - 9:27:55 PM] Received notification 'window/logMessage'.
+2023-11-22 21:27:55.346 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:27:55.421 [info] [Trace - 9:27:55 PM] Received response 'textDocument/formatting - (5)' in 79ms.
+2023-11-22 21:28:12.974 [info] [Trace - 9:28:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:13.159 [info] [Trace - 9:28:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:13.319 [info] [Trace - 9:28:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:14.043 [info] [Trace - 9:28:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:14.249 [info] [Trace - 9:28:14 PM] Sending request 'textDocument/formatting - (6)'.
+2023-11-22 21:28:14.256 [info] [Trace - 9:28:14 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:14.256 [info] /bin/python -m autopep8 -
+2023-11-22 21:28:14.256 [info] [Trace - 9:28:14 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:14.256 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:28:14.424 [info] [Trace - 9:28:14 PM] Received response 'textDocument/formatting - (6)' in 175ms.
+2023-11-22 21:28:21.905 [info] [Trace - 9:28:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:22.398 [info] [Trace - 9:28:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:22.633 [info] [Trace - 9:28:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:22.817 [info] [Trace - 9:28:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:24.820 [info] [Trace - 9:28:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:24.975 [info] [Trace - 9:28:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:25.167 [info] [Trace - 9:28:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:25.371 [info] [Trace - 9:28:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:25.575 [info] [Trace - 9:28:25 PM] Sending request 'textDocument/formatting - (7)'.
+2023-11-22 21:28:25.583 [info] [Trace - 9:28:25 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:25.583 [info] /bin/python -m autopep8 -
+2023-11-22 21:28:25.583 [info] [Trace - 9:28:25 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:25.583 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:28:25.765 [info] [Trace - 9:28:25 PM] Received response 'textDocument/formatting - (7)' in 190ms.
+2023-11-22 21:28:39.114 [info] [Trace - 9:28:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:39.782 [info] [Trace - 9:28:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:49.423 [info] [Trace - 9:28:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:49.725 [info] [Trace - 9:28:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:50.219 [info] [Trace - 9:28:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:50.727 [info] [Trace - 9:28:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:51.377 [info] [Trace - 9:28:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:51.806 [info] [Trace - 9:28:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:53.130 [info] [Trace - 9:28:53 PM] Sending request 'textDocument/formatting - (8)'.
+2023-11-22 21:28:53.139 [info] [Trace - 9:28:53 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:53.139 [info] /bin/python -m autopep8 -
+2023-11-22 21:28:53.139 [info] [Trace - 9:28:53 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:53.139 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:28:53.279 [info] [Trace - 9:28:53 PM] Received response 'textDocument/formatting - (8)' in 150ms.
+2023-11-22 21:28:55.662 [info] [Trace - 9:28:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:55.802 [info] [Trace - 9:28:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:55.969 [info] [Trace - 9:28:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:56.136 [info] [Trace - 9:28:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:28:56.363 [info] [Trace - 9:28:56 PM] Sending request 'textDocument/formatting - (9)'.
+2023-11-22 21:28:56.369 [info] [Trace - 9:28:56 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:56.369 [info] /bin/python -m autopep8 -
+2023-11-22 21:28:56.369 [info] [Trace - 9:28:56 PM] Received notification 'window/logMessage'.
+2023-11-22 21:28:56.369 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:28:56.560 [info] [Trace - 9:28:56 PM] Received response 'textDocument/formatting - (9)' in 197ms.
+2023-11-22 21:29:01.858 [info] [Trace - 9:29:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:02.049 [info] [Trace - 9:29:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:02.191 [info] [Trace - 9:29:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:02.359 [info] [Trace - 9:29:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:03.422 [info] [Trace - 9:29:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:03.535 [info] [Trace - 9:29:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:03.775 [info] [Trace - 9:29:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:03.911 [info] [Trace - 9:29:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:04.465 [info] [Trace - 9:29:04 PM] Sending request 'textDocument/formatting - (10)'.
+2023-11-22 21:29:04.470 [info] [Trace - 9:29:04 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:04.470 [info] /bin/python -m autopep8 -
+2023-11-22 21:29:04.470 [info] [Trace - 9:29:04 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:04.470 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:29:04.573 [info] [Trace - 9:29:04 PM] Received response 'textDocument/formatting - (10)' in 108ms.
+2023-11-22 21:29:36.802 [info] [Trace - 9:29:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:39.066 [info] [Trace - 9:29:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:45.703 [info] [Trace - 9:29:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:45.881 [info] [Trace - 9:29:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:46.164 [info] [Trace - 9:29:46 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:47.842 [info] [Trace - 9:29:47 PM] Sending request 'textDocument/formatting - (11)'.
+2023-11-22 21:29:47.916 [info] [Trace - 9:29:47 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:47.916 [info] [Error - 9:29:47 PM] Syntax error in code: Traceback (most recent call last):
+  File "/home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool/lsp_server.py", line 94, in is_python
+    ast.parse(code)
+  File "/usr/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 279
+    containers = Stack()
+IndentationError: expected an indented block after 'for' statement on line 275
+
+2023-11-22 21:29:47.916 [info] [Trace - 9:29:47 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:47.916 [info] [Warn  - 9:29:47 PM] Skipping non python code: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-22 21:29:47.917 [info] [Trace - 9:29:47 PM] Received response 'textDocument/formatting - (11)' in 76ms.
+2023-11-22 21:29:48.624 [info] [Trace - 9:29:48 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:49.093 [info] [Trace - 9:29:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:49.292 [info] [Trace - 9:29:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:49.439 [info] [Trace - 9:29:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:49.606 [info] [Trace - 9:29:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:49.686 [info] [Trace - 9:29:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:50.162 [info] [Trace - 9:29:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:50.865 [info] [Trace - 9:29:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:51.719 [info] [Trace - 9:29:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:51.904 [info] [Trace - 9:29:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:52.482 [info] [Trace - 9:29:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:52.741 [info] [Trace - 9:29:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:29:53.415 [info] [Trace - 9:29:53 PM] Sending request 'textDocument/formatting - (12)'.
+2023-11-22 21:29:53.421 [info] [Trace - 9:29:53 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:53.421 [info] /bin/python -m autopep8 -
+2023-11-22 21:29:53.422 [info] [Trace - 9:29:53 PM] Received notification 'window/logMessage'.
+2023-11-22 21:29:53.422 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:29:53.564 [info] [Trace - 9:29:53 PM] Received response 'textDocument/formatting - (12)' in 149ms.
+2023-11-22 21:29:53.568 [info] [Trace - 9:29:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:17.185 [info] [Trace - 9:30:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:17.590 [info] [Trace - 9:30:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:17.770 [info] [Trace - 9:30:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:17.983 [info] [Trace - 9:30:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:18.183 [info] [Trace - 9:30:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:18.376 [info] [Trace - 9:30:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:18.583 [info] [Trace - 9:30:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:18.762 [info] [Trace - 9:30:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:20.610 [info] [Trace - 9:30:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:20.860 [info] [Trace - 9:30:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:20.980 [info] [Trace - 9:30:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:21.138 [info] [Trace - 9:30:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:21.219 [info] [Trace - 9:30:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:22.514 [info] [Trace - 9:30:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:22.674 [info] [Trace - 9:30:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:22.850 [info] [Trace - 9:30:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:23.028 [info] [Trace - 9:30:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:30:23.204 [info] [Trace - 9:30:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:31:17.274 [info] [Trace - 9:31:17 PM] Sending request 'textDocument/formatting - (13)'.
+2023-11-22 21:31:17.282 [info] [Trace - 9:31:17 PM] Received notification 'window/logMessage'.
+2023-11-22 21:31:17.282 [info] [Error - 9:31:17 PM] Syntax error in code: Traceback (most recent call last):
+  File "/home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool/lsp_server.py", line 94, in is_python
+    ast.parse(code)
+  File "/usr/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 279
+    containers = Stack()
+IndentationError: expected an indented block after 'for' statement on line 275
+
+2023-11-22 21:31:17.283 [info] [Trace - 9:31:17 PM] Received notification 'window/logMessage'.
+2023-11-22 21:31:17.283 [info] [Warn  - 9:31:17 PM] Skipping non python code: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-22 21:31:17.283 [info] [Trace - 9:31:17 PM] Received response 'textDocument/formatting - (13)' in 9ms.
+2023-11-22 21:31:44.554 [info] [Trace - 9:31:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:31:44.779 [info] [Trace - 9:31:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:31:45.967 [info] [Trace - 9:31:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:26.464 [info] [Trace - 9:35:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:26.997 [info] [Trace - 9:35:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:27.153 [info] [Trace - 9:35:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:27.349 [info] [Trace - 9:35:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:27.478 [info] [Trace - 9:35:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:27.596 [info] [Trace - 9:35:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:27.843 [info] [Trace - 9:35:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:28.251 [info] [Trace - 9:35:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:28.404 [info] [Trace - 9:35:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:28.569 [info] [Trace - 9:35:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:28.820 [info] [Trace - 9:35:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:28.901 [info] [Trace - 9:35:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:29.057 [info] [Trace - 9:35:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:29.247 [info] [Trace - 9:35:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:29.456 [info] [Trace - 9:35:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:29.742 [info] [Trace - 9:35:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:30.146 [info] [Trace - 9:35:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:30.316 [info] [Trace - 9:35:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:31.937 [info] [Trace - 9:35:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:32.166 [info] [Trace - 9:35:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:32.319 [info] [Trace - 9:35:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:32.410 [info] [Trace - 9:35:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:32.549 [info] [Trace - 9:35:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:33.473 [info] [Trace - 9:35:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:33.853 [info] [Trace - 9:35:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:33.975 [info] [Trace - 9:35:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:34.338 [info] [Trace - 9:35:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:34.506 [info] [Trace - 9:35:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:34.677 [info] [Trace - 9:35:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:34.850 [info] [Trace - 9:35:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:35.750 [info] [Trace - 9:35:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:36.192 [info] [Trace - 9:35:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:36.698 [info] [Trace - 9:35:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:36.818 [info] [Trace - 9:35:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:37.988 [info] [Trace - 9:35:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:38.762 [info] [Trace - 9:35:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:38.868 [info] [Trace - 9:35:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:39.292 [info] [Trace - 9:35:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:43.443 [info] [Trace - 9:35:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:43.616 [info] [Trace - 9:35:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:43.734 [info] [Trace - 9:35:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:44.077 [info] [Trace - 9:35:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:44.328 [info] [Trace - 9:35:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:44.501 [info] [Trace - 9:35:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:44.946 [info] [Trace - 9:35:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:51.967 [info] [Trace - 9:35:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:52.181 [info] [Trace - 9:35:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:52.366 [info] [Trace - 9:35:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:52.526 [info] [Trace - 9:35:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:52.695 [info] [Trace - 9:35:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:52.857 [info] [Trace - 9:35:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:53.053 [info] [Trace - 9:35:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:57.162 [info] [Trace - 9:35:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:57.898 [info] [Trace - 9:35:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:58.063 [info] [Trace - 9:35:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:35:58.268 [info] [Trace - 9:35:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.083 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.236 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.396 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.536 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.697 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:00.860 [info] [Trace - 9:36:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:01.026 [info] [Trace - 9:36:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:02.122 [info] [Trace - 9:36:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:03.609 [info] [Trace - 9:36:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:05.690 [info] [Trace - 9:36:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:05.850 [info] [Trace - 9:36:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:05.963 [info] [Trace - 9:36:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:06.120 [info] [Trace - 9:36:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:06.252 [info] [Trace - 9:36:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:07.050 [info] [Trace - 9:36:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.100 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.286 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.431 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.612 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.770 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:09.944 [info] [Trace - 9:36:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:26.639 [info] [Trace - 9:36:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:26.759 [info] [Trace - 9:36:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:26.919 [info] [Trace - 9:36:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:27.558 [info] [Trace - 9:36:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:30.287 [info] [Trace - 9:36:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:30.815 [info] [Trace - 9:36:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:30.955 [info] [Trace - 9:36:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:31.141 [info] [Trace - 9:36:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:31.248 [info] [Trace - 9:36:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:31.380 [info] [Trace - 9:36:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:31.536 [info] [Trace - 9:36:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:32.756 [info] [Trace - 9:36:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:32.949 [info] [Trace - 9:36:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:33.134 [info] [Trace - 9:36:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:33.277 [info] [Trace - 9:36:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:35.044 [info] [Trace - 9:36:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:35.234 [info] [Trace - 9:36:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:39.677 [info] [Trace - 9:36:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:39.840 [info] [Trace - 9:36:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:40.076 [info] [Trace - 9:36:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:40.702 [info] [Trace - 9:36:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:40.890 [info] [Trace - 9:36:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:42.248 [info] [Trace - 9:36:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:42.689 [info] [Trace - 9:36:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:42.801 [info] [Trace - 9:36:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:42.875 [info] [Trace - 9:36:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:43.665 [info] [Trace - 9:36:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:53.286 [info] [Trace - 9:36:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:54.421 [info] [Trace - 9:36:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:54.830 [info] [Trace - 9:36:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:56.039 [info] [Trace - 9:36:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:56.217 [info] [Trace - 9:36:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:56.312 [info] [Trace - 9:36:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:56.466 [info] [Trace - 9:36:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:56.607 [info] [Trace - 9:36:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:57.132 [info] [Trace - 9:36:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:57.410 [info] [Trace - 9:36:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:57.798 [info] [Trace - 9:36:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:57.878 [info] [Trace - 9:36:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:59.401 [info] [Trace - 9:36:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:59.593 [info] [Trace - 9:36:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:59.752 [info] [Trace - 9:36:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:36:59.927 [info] [Trace - 9:36:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:01.207 [info] [Trace - 9:37:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:01.342 [info] [Trace - 9:37:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:01.584 [info] [Trace - 9:37:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:01.701 [info] [Trace - 9:37:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:01.839 [info] [Trace - 9:37:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:02.930 [info] [Trace - 9:37:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:03.677 [info] [Trace - 9:37:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:03.851 [info] [Trace - 9:37:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:03.987 [info] [Trace - 9:37:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:04.806 [info] [Trace - 9:37:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:04.941 [info] [Trace - 9:37:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:05.121 [info] [Trace - 9:37:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:05.832 [info] [Trace - 9:37:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:05.985 [info] [Trace - 9:37:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:06.137 [info] [Trace - 9:37:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:06.856 [info] [Trace - 9:37:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:07.803 [info] [Trace - 9:37:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:08.393 [info] [Trace - 9:37:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:12.500 [info] [Trace - 9:37:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:12.762 [info] [Trace - 9:37:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:12.974 [info] [Trace - 9:37:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:13.198 [info] [Trace - 9:37:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:13.324 [info] [Trace - 9:37:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:13.986 [info] [Trace - 9:37:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:14.210 [info] [Trace - 9:37:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:14.385 [info] [Trace - 9:37:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:14.554 [info] [Trace - 9:37:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:15.124 [info] [Trace - 9:37:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:16.379 [info] [Trace - 9:37:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:16.730 [info] [Trace - 9:37:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:17.056 [info] [Trace - 9:37:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:17.243 [info] [Trace - 9:37:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:17.351 [info] [Trace - 9:37:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:17.533 [info] [Trace - 9:37:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:18.628 [info] [Trace - 9:37:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:20.501 [info] [Trace - 9:37:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:20.631 [info] [Trace - 9:37:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:20.887 [info] [Trace - 9:37:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:21.293 [info] [Trace - 9:37:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:21.445 [info] [Trace - 9:37:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:21.561 [info] [Trace - 9:37:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:21.674 [info] [Trace - 9:37:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:22.040 [info] [Trace - 9:37:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:22.434 [info] [Trace - 9:37:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:22.686 [info] [Trace - 9:37:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:22.876 [info] [Trace - 9:37:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:22.985 [info] [Trace - 9:37:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:23.118 [info] [Trace - 9:37:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:24.084 [info] [Trace - 9:37:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:24.464 [info] [Trace - 9:37:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:26.913 [info] [Trace - 9:37:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:27.133 [info] [Trace - 9:37:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:27.653 [info] [Trace - 9:37:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:28.486 [info] [Trace - 9:37:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:28.956 [info] [Trace - 9:37:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:29.053 [info] [Trace - 9:37:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:29.143 [info] [Trace - 9:37:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:29.914 [info] [Trace - 9:37:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:31.271 [info] [Trace - 9:37:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:31.446 [info] [Trace - 9:37:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:31.753 [info] [Trace - 9:37:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:32.381 [info] [Trace - 9:37:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:32.534 [info] [Trace - 9:37:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:32.649 [info] [Trace - 9:37:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:32.814 [info] [Trace - 9:37:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:32.950 [info] [Trace - 9:37:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:34.830 [info] [Trace - 9:37:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:35.017 [info] [Trace - 9:37:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:35.185 [info] [Trace - 9:37:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:35.417 [info] [Trace - 9:37:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:35.632 [info] [Trace - 9:37:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:41.866 [info] [Trace - 9:37:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:42.261 [info] [Trace - 9:37:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:42.457 [info] [Trace - 9:37:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:42.643 [info] [Trace - 9:37:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:37:47.015 [info] [Trace - 9:37:47 PM] Sending request 'textDocument/formatting - (14)'.
+2023-11-22 21:37:47.017 [info] [Trace - 9:37:47 PM] Received notification 'window/logMessage'.
+2023-11-22 21:37:47.017 [info] /bin/python -m autopep8 -
+2023-11-22 21:37:47.017 [info] [Trace - 9:37:47 PM] Received notification 'window/logMessage'.
+2023-11-22 21:37:47.017 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:37:47.263 [info] [Trace - 9:37:47 PM] Received response 'textDocument/formatting - (14)' in 248ms.
+2023-11-22 21:39:01.723 [info] [Trace - 9:39:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:39:01.903 [info] [Trace - 9:39:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:39:02.059 [info] [Trace - 9:39:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:39:02.218 [info] [Trace - 9:39:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:39:03.254 [info] [Trace - 9:39:03 PM] Sending request 'textDocument/formatting - (15)'.
+2023-11-22 21:39:03.261 [info] [Trace - 9:39:03 PM] Received notification 'window/logMessage'.
+2023-11-22 21:39:03.261 [info] /bin/python -m autopep8 -
+2023-11-22 21:39:03.261 [info] [Trace - 9:39:03 PM] Received notification 'window/logMessage'.
+2023-11-22 21:39:03.261 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:39:03.398 [info] [Trace - 9:39:03 PM] Received response 'textDocument/formatting - (15)' in 144ms.
+2023-11-22 21:40:17.592 [info] [Trace - 9:40:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:40:17.702 [info] [Trace - 9:40:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:40:17.896 [info] [Trace - 9:40:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:40:18.307 [info] [Trace - 9:40:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:40:19.240 [info] [Trace - 9:40:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:40:50.188 [info] [Trace - 9:40:50 PM] Sending request 'textDocument/formatting - (16)'.
+2023-11-22 21:40:50.191 [info] [Trace - 9:40:50 PM] Received notification 'window/logMessage'.
+2023-11-22 21:40:50.191 [info] /bin/python -m autopep8 -
+2023-11-22 21:40:50.192 [info] [Trace - 9:40:50 PM] Received notification 'window/logMessage'.
+2023-11-22 21:40:50.192 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:40:50.272 [info] [Trace - 9:40:50 PM] Received response 'textDocument/formatting - (16)' in 84ms.
+2023-11-22 21:42:22.333 [info] [Trace - 9:42:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:22.527 [info] [Trace - 9:42:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:22.755 [info] [Trace - 9:42:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:23.503 [info] [Trace - 9:42:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:27.137 [info] [Trace - 9:42:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:28.428 [info] [Trace - 9:42:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:30.604 [info] [Trace - 9:42:30 PM] Sending request 'textDocument/formatting - (17)'.
+2023-11-22 21:42:30.610 [info] [Trace - 9:42:30 PM] Received notification 'window/logMessage'.
+2023-11-22 21:42:30.610 [info] /bin/python -m autopep8 -
+2023-11-22 21:42:30.610 [info] [Trace - 9:42:30 PM] Received notification 'window/logMessage'.
+2023-11-22 21:42:30.610 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:42:30.790 [info] [Trace - 9:42:30 PM] Received response 'textDocument/formatting - (17)' in 187ms.
+2023-11-22 21:42:30.793 [info] [Trace - 9:42:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:42:32.481 [info] [Trace - 9:42:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:44:43.893 [info] [Trace - 9:44:43 PM] Sending request 'textDocument/formatting - (18)'.
+2023-11-22 21:44:43.901 [info] [Trace - 9:44:43 PM] Received notification 'window/logMessage'.
+2023-11-22 21:44:43.901 [info] /bin/python -m autopep8 -
+2023-11-22 21:44:43.901 [info] [Trace - 9:44:43 PM] Received notification 'window/logMessage'.
+2023-11-22 21:44:43.901 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:44:44.015 [info] [Trace - 9:44:44 PM] Received response 'textDocument/formatting - (18)' in 122ms.
+2023-11-22 21:44:44.018 [info] [Trace - 9:44:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:54:42.273 [info] [Trace - 9:54:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:14.047 [info] [Trace - 9:56:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:14.201 [info] [Trace - 9:56:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:14.596 [info] [Trace - 9:56:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:14.667 [info] [Trace - 9:56:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:14.803 [info] [Trace - 9:56:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:16.171 [info] [Trace - 9:56:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:16.305 [info] [Trace - 9:56:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:16.352 [info] [Trace - 9:56:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:16.545 [info] [Trace - 9:56:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:17.384 [info] [Trace - 9:56:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:21.737 [info] [Trace - 9:56:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:22.135 [info] [Trace - 9:56:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:23.334 [info] [Trace - 9:56:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:23.536 [info] [Trace - 9:56:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:26.744 [info] [Trace - 9:56:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:26.954 [info] [Trace - 9:56:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:27.849 [info] [Trace - 9:56:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:28.024 [info] [Trace - 9:56:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:28.641 [info] [Trace - 9:56:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:29.010 [info] [Trace - 9:56:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:29.070 [info] [Trace - 9:56:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:29.984 [info] [Trace - 9:56:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:30.891 [info] [Trace - 9:56:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:31.166 [info] [Trace - 9:56:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:31.631 [info] [Trace - 9:56:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:31.956 [info] [Trace - 9:56:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:32.211 [info] [Trace - 9:56:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:38.731 [info] [Trace - 9:56:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:38.998 [info] [Trace - 9:56:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:41.516 [info] [Trace - 9:56:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:42.049 [info] [Trace - 9:56:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:44.350 [info] [Trace - 9:56:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:44.477 [info] [Trace - 9:56:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:44.564 [info] [Trace - 9:56:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:44.747 [info] [Trace - 9:56:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:47.962 [info] [Trace - 9:56:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:48.076 [info] [Trace - 9:56:48 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:48.249 [info] [Trace - 9:56:48 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:48.304 [info] [Trace - 9:56:48 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:49.564 [info] [Trace - 9:56:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:49.838 [info] [Trace - 9:56:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:50.831 [info] [Trace - 9:56:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:50.980 [info] [Trace - 9:56:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:51.194 [info] [Trace - 9:56:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:51.389 [info] [Trace - 9:56:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:52.609 [info] [Trace - 9:56:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:52.776 [info] [Trace - 9:56:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:52.890 [info] [Trace - 9:56:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:53.123 [info] [Trace - 9:56:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:53.844 [info] [Trace - 9:56:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:54.286 [info] [Trace - 9:56:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:54.607 [info] [Trace - 9:56:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:54.754 [info] [Trace - 9:56:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:54.942 [info] [Trace - 9:56:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:55.212 [info] [Trace - 9:56:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:55.806 [info] [Trace - 9:56:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:56:56.432 [info] [Trace - 9:56:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:16.121 [info] [Trace - 9:57:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:16.273 [info] [Trace - 9:57:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:16.395 [info] [Trace - 9:57:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:16.510 [info] [Trace - 9:57:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:17.048 [info] [Trace - 9:57:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:17.541 [info] [Trace - 9:57:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:17.832 [info] [Trace - 9:57:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:18.062 [info] [Trace - 9:57:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:23.288 [info] [Trace - 9:57:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:24.176 [info] [Trace - 9:57:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:24.310 [info] [Trace - 9:57:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:24.407 [info] [Trace - 9:57:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:24.547 [info] [Trace - 9:57:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:24.655 [info] [Trace - 9:57:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:25.114 [info] [Trace - 9:57:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:25.826 [info] [Trace - 9:57:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:26.019 [info] [Trace - 9:57:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:26.144 [info] [Trace - 9:57:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:26.261 [info] [Trace - 9:57:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:26.570 [info] [Trace - 9:57:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:57:32.151 [info] [Trace - 9:57:32 PM] Sending request 'textDocument/formatting - (19)'.
+2023-11-22 21:57:32.153 [info] [Trace - 9:57:32 PM] Received notification 'window/logMessage'.
+2023-11-22 21:57:32.153 [info] /bin/python -m autopep8 -
+2023-11-22 21:57:32.153 [info] [Trace - 9:57:32 PM] Received notification 'window/logMessage'.
+2023-11-22 21:57:32.153 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:57:32.375 [info] [Trace - 9:57:32 PM] Received response 'textDocument/formatting - (19)' in 224ms.
+2023-11-22 21:58:02.781 [info] [Trace - 9:58:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:03.622 [info] [Trace - 9:58:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:04.153 [info] [Trace - 9:58:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:04.375 [info] [Trace - 9:58:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:05.358 [info] [Trace - 9:58:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:05.537 [info] [Trace - 9:58:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:11.332 [info] [Trace - 9:58:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:11.525 [info] [Trace - 9:58:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:11.738 [info] [Trace - 9:58:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:11.881 [info] [Trace - 9:58:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:12.163 [info] [Trace - 9:58:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:12.387 [info] [Trace - 9:58:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.005 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.200 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.448 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.614 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.724 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:13.909 [info] [Trace - 9:58:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:14.064 [info] [Trace - 9:58:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:14.178 [info] [Trace - 9:58:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:16.435 [info] [Trace - 9:58:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:16.636 [info] [Trace - 9:58:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:16.790 [info] [Trace - 9:58:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:16.960 [info] [Trace - 9:58:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:17.331 [info] [Trace - 9:58:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:17.677 [info] [Trace - 9:58:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:17.883 [info] [Trace - 9:58:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:17.989 [info] [Trace - 9:58:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:18.060 [info] [Trace - 9:58:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:18.258 [info] [Trace - 9:58:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:18.950 [info] [Trace - 9:58:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:20.068 [info] [Trace - 9:58:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:25.935 [info] [Trace - 9:58:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:26.478 [info] [Trace - 9:58:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:26.576 [info] [Trace - 9:58:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:29.076 [info] [Trace - 9:58:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:30.067 [info] [Trace - 9:58:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:30.347 [info] [Trace - 9:58:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:30.505 [info] [Trace - 9:58:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:30.681 [info] [Trace - 9:58:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:30.807 [info] [Trace - 9:58:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:31.300 [info] [Trace - 9:58:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:31.921 [info] [Trace - 9:58:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:32.105 [info] [Trace - 9:58:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:32.821 [info] [Trace - 9:58:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:35.179 [info] [Trace - 9:58:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:36.434 [info] [Trace - 9:58:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:46.748 [info] [Trace - 9:58:46 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:47.095 [info] [Trace - 9:58:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:47.614 [info] [Trace - 9:58:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:47.829 [info] [Trace - 9:58:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:53.056 [info] [Trace - 9:58:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:53.335 [info] [Trace - 9:58:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:53.539 [info] [Trace - 9:58:53 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:54.272 [info] [Trace - 9:58:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:54.741 [info] [Trace - 9:58:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:55.098 [info] [Trace - 9:58:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:55.660 [info] [Trace - 9:58:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:56.384 [info] [Trace - 9:58:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:56.796 [info] [Trace - 9:58:56 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:57.011 [info] [Trace - 9:58:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:57.223 [info] [Trace - 9:58:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:57.482 [info] [Trace - 9:58:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:57.621 [info] [Trace - 9:58:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:58.553 [info] [Trace - 9:58:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:59.724 [info] [Trace - 9:58:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:58:59.921 [info] [Trace - 9:58:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:00.108 [info] [Trace - 9:59:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:00.230 [info] [Trace - 9:59:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:00.525 [info] [Trace - 9:59:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:00.794 [info] [Trace - 9:59:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:02.565 [info] [Trace - 9:59:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:05.402 [info] [Trace - 9:59:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:05.673 [info] [Trace - 9:59:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:05.851 [info] [Trace - 9:59:05 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:06.352 [info] [Trace - 9:59:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:07.167 [info] [Trace - 9:59:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:11.559 [info] [Trace - 9:59:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:11.869 [info] [Trace - 9:59:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:11.982 [info] [Trace - 9:59:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:12.085 [info] [Trace - 9:59:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:13.140 [info] [Trace - 9:59:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:14.111 [info] [Trace - 9:59:14 PM] Sending request 'textDocument/formatting - (20)'.
+2023-11-22 21:59:14.117 [info] [Trace - 9:59:14 PM] Received notification 'window/logMessage'.
+2023-11-22 21:59:14.117 [info] /bin/python -m autopep8 -
+2023-11-22 21:59:14.117 [info] [Trace - 9:59:14 PM] Received notification 'window/logMessage'.
+2023-11-22 21:59:14.117 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:59:14.273 [info] [Trace - 9:59:14 PM] Received response 'textDocument/formatting - (20)' in 162ms.
+2023-11-22 21:59:14.276 [info] [Trace - 9:59:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:17.665 [info] [Trace - 9:59:17 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:18.026 [info] [Trace - 9:59:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:18.434 [info] [Trace - 9:59:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:18.971 [info] [Trace - 9:59:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:19.135 [info] [Trace - 9:59:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:19.275 [info] [Trace - 9:59:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:19.477 [info] [Trace - 9:59:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:19.494 [info] [Trace - 9:59:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:20.218 [info] [Trace - 9:59:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:20.750 [info] [Trace - 9:59:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:20.879 [info] [Trace - 9:59:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:21.054 [info] [Trace - 9:59:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:21.448 [info] [Trace - 9:59:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:21.982 [info] [Trace - 9:59:21 PM] Sending request 'textDocument/formatting - (21)'.
+2023-11-22 21:59:21.996 [info] [Trace - 9:59:21 PM] Received notification 'window/logMessage'.
+2023-11-22 21:59:21.996 [info] /bin/python -m autopep8 -
+2023-11-22 21:59:21.998 [info] [Trace - 9:59:21 PM] Received notification 'window/logMessage'.
+2023-11-22 21:59:21.998 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 21:59:22.121 [info] [Trace - 9:59:22 PM] Received response 'textDocument/formatting - (21)' in 140ms.
+2023-11-22 21:59:35.359 [info] [Trace - 9:59:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:36.069 [info] [Trace - 9:59:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:36.287 [info] [Trace - 9:59:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:45.500 [info] [Trace - 9:59:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 21:59:59.464 [info] [Trace - 9:59:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:00.159 [info] [Trace - 10:00:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:01.681 [info] [Trace - 10:00:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:02.494 [info] [Trace - 10:00:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:04.228 [info] [Trace - 10:00:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:07.886 [info] [Trace - 10:00:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:08.655 [info] [Trace - 10:00:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:09.511 [info] [Trace - 10:00:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:09.695 [info] [Trace - 10:00:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:10.291 [info] [Trace - 10:00:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:10.862 [info] [Trace - 10:00:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:11.017 [info] [Trace - 10:00:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:11.175 [info] [Trace - 10:00:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:11.419 [info] [Trace - 10:00:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:12.118 [info] [Trace - 10:00:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:12.673 [info] [Trace - 10:00:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:12.848 [info] [Trace - 10:00:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.045 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.209 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.352 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.512 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.699 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:13.928 [info] [Trace - 10:00:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:16.850 [info] [Trace - 10:00:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:19.053 [info] [Trace - 10:00:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:21.041 [info] [Trace - 10:00:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:21.202 [info] [Trace - 10:00:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:22.069 [info] [Trace - 10:00:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:22.869 [info] [Trace - 10:00:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:23.528 [info] [Trace - 10:00:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:24.032 [info] [Trace - 10:00:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:24.140 [info] [Trace - 10:00:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:24.251 [info] [Trace - 10:00:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:24.407 [info] [Trace - 10:00:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:26.240 [info] [Trace - 10:00:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:26.908 [info] [Trace - 10:00:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:27.717 [info] [Trace - 10:00:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:29.024 [info] [Trace - 10:00:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:29.424 [info] [Trace - 10:00:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:29.565 [info] [Trace - 10:00:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:29.714 [info] [Trace - 10:00:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:29.812 [info] [Trace - 10:00:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:30.007 [info] [Trace - 10:00:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:31.279 [info] [Trace - 10:00:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:31.550 [info] [Trace - 10:00:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:31.672 [info] [Trace - 10:00:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:31.817 [info] [Trace - 10:00:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:32.204 [info] [Trace - 10:00:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:32.806 [info] [Trace - 10:00:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:33.184 [info] [Trace - 10:00:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:33.623 [info] [Trace - 10:00:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:33.722 [info] [Trace - 10:00:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:33.794 [info] [Trace - 10:00:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:36.436 [info] [Trace - 10:00:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:36.651 [info] [Trace - 10:00:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:37.501 [info] [Trace - 10:00:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:37.619 [info] [Trace - 10:00:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:39.170 [info] [Trace - 10:00:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:40.834 [info] [Trace - 10:00:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:41.454 [info] [Trace - 10:00:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:41.658 [info] [Trace - 10:00:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:41.782 [info] [Trace - 10:00:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:41.856 [info] [Trace - 10:00:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:44.471 [info] [Trace - 10:00:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:44.591 [info] [Trace - 10:00:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:44.756 [info] [Trace - 10:00:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:44.838 [info] [Trace - 10:00:44 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:45.583 [info] [Trace - 10:00:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:45.804 [info] [Trace - 10:00:45 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:47.124 [info] [Trace - 10:00:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:47.236 [info] [Trace - 10:00:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:47.404 [info] [Trace - 10:00:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:47.503 [info] [Trace - 10:00:47 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:49.280 [info] [Trace - 10:00:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:50.165 [info] [Trace - 10:00:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:52.042 [info] [Trace - 10:00:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:52.368 [info] [Trace - 10:00:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:52.529 [info] [Trace - 10:00:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:52.908 [info] [Trace - 10:00:52 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:55.604 [info] [Trace - 10:00:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:57.911 [info] [Trace - 10:00:57 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:58.184 [info] [Trace - 10:00:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:58.304 [info] [Trace - 10:00:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:00:59.008 [info] [Trace - 10:00:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:00.115 [info] [Trace - 10:01:00 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:01.469 [info] [Trace - 10:01:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:01.984 [info] [Trace - 10:01:01 PM] Sending request 'textDocument/formatting - (22)'.
+2023-11-22 22:01:01.994 [info] [Trace - 10:01:01 PM] Received notification 'window/logMessage'.
+2023-11-22 22:01:01.994 [info] /bin/python -m autopep8 -
+2023-11-22 22:01:01.994 [info] [Trace - 10:01:01 PM] Received notification 'window/logMessage'.
+2023-11-22 22:01:01.994 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:01:02.170 [info] [Trace - 10:01:02 PM] Received response 'textDocument/formatting - (22)' in 186ms.
+2023-11-22 22:01:02.176 [info] [Trace - 10:01:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:04.232 [info] [Trace - 10:01:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:04.808 [info] [Trace - 10:01:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:23.643 [info] [Trace - 10:01:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:24.449 [info] [Trace - 10:01:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:24.629 [info] [Trace - 10:01:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:24.754 [info] [Trace - 10:01:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:24.886 [info] [Trace - 10:01:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:25.835 [info] [Trace - 10:01:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:26.010 [info] [Trace - 10:01:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:26.411 [info] [Trace - 10:01:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:26.607 [info] [Trace - 10:01:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:27.088 [info] [Trace - 10:01:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:27.265 [info] [Trace - 10:01:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:27.713 [info] [Trace - 10:01:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:27.829 [info] [Trace - 10:01:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:28.020 [info] [Trace - 10:01:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:29.253 [info] [Trace - 10:01:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:29.392 [info] [Trace - 10:01:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:29.528 [info] [Trace - 10:01:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:29.998 [info] [Trace - 10:01:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:30.991 [info] [Trace - 10:01:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:31.188 [info] [Trace - 10:01:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:34.806 [info] [Trace - 10:01:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:34.941 [info] [Trace - 10:01:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:35.234 [info] [Trace - 10:01:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:35.377 [info] [Trace - 10:01:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:35.813 [info] [Trace - 10:01:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:36.248 [info] [Trace - 10:01:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:36.596 [info] [Trace - 10:01:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:36.764 [info] [Trace - 10:01:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:37.240 [info] [Trace - 10:01:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:37.861 [info] [Trace - 10:01:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:38.042 [info] [Trace - 10:01:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:38.205 [info] [Trace - 10:01:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:38.357 [info] [Trace - 10:01:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:38.553 [info] [Trace - 10:01:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:39.568 [info] [Trace - 10:01:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:41.846 [info] [Trace - 10:01:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:01:44.155 [info] [Trace - 10:01:44 PM] Sending request 'textDocument/formatting - (23)'.
+2023-11-22 22:01:44.162 [info] [Trace - 10:01:44 PM] Received notification 'window/logMessage'.
+2023-11-22 22:01:44.162 [info] /bin/python -m autopep8 -
+2023-11-22 22:01:44.162 [info] [Trace - 10:01:44 PM] Received notification 'window/logMessage'.
+2023-11-22 22:01:44.162 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:01:44.291 [info] [Trace - 10:01:44 PM] Received response 'textDocument/formatting - (23)' in 136ms.
+2023-11-22 22:02:34.796 [info] [Trace - 10:02:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:35.667 [info] [Trace - 10:02:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:35.838 [info] [Trace - 10:02:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:36.271 [info] [Trace - 10:02:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:36.438 [info] [Trace - 10:02:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:36.597 [info] [Trace - 10:02:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:36.985 [info] [Trace - 10:02:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:37.444 [info] [Trace - 10:02:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:37.864 [info] [Trace - 10:02:37 PM] Sending request 'textDocument/formatting - (24)'.
+2023-11-22 22:02:37.876 [info] [Trace - 10:02:37 PM] Received notification 'window/logMessage'.
+2023-11-22 22:02:37.876 [info] /bin/python -m autopep8 -
+2023-11-22 22:02:37.876 [info] [Trace - 10:02:37 PM] Received notification 'window/logMessage'.
+2023-11-22 22:02:37.877 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:02:38.080 [info] [Trace - 10:02:38 PM] Received response 'textDocument/formatting - (24)' in 216ms.
+2023-11-22 22:02:55.154 [info] [Trace - 10:02:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:55.490 [info] [Trace - 10:02:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:55.680 [info] [Trace - 10:02:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:55.890 [info] [Trace - 10:02:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:02:56.526 [info] [Trace - 10:02:56 PM] Sending request 'textDocument/formatting - (25)'.
+2023-11-22 22:02:56.533 [info] [Trace - 10:02:56 PM] Received notification 'window/logMessage'.
+2023-11-22 22:02:56.533 [info] /bin/python -m autopep8 -
+2023-11-22 22:02:56.534 [info] [Trace - 10:02:56 PM] Received notification 'window/logMessage'.
+2023-11-22 22:02:56.534 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:02:56.720 [info] [Trace - 10:02:56 PM] Received response 'textDocument/formatting - (25)' in 194ms.
+2023-11-22 22:04:10.387 [info] [Trace - 10:04:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:10.668 [info] [Trace - 10:04:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:10.780 [info] [Trace - 10:04:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:11.001 [info] [Trace - 10:04:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:11.134 [info] [Trace - 10:04:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:11.484 [info] [Trace - 10:04:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:11.750 [info] [Trace - 10:04:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:11.883 [info] [Trace - 10:04:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:12.012 [info] [Trace - 10:04:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:12.631 [info] [Trace - 10:04:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:13.295 [info] [Trace - 10:04:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:13.488 [info] [Trace - 10:04:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:13.979 [info] [Trace - 10:04:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:14.327 [info] [Trace - 10:04:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:14.593 [info] [Trace - 10:04:14 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:15.025 [info] [Trace - 10:04:15 PM] Sending request 'textDocument/formatting - (26)'.
+2023-11-22 22:04:15.028 [info] [Trace - 10:04:15 PM] Received notification 'window/logMessage'.
+2023-11-22 22:04:15.028 [info] /bin/python -m autopep8 -
+2023-11-22 22:04:15.028 [info] [Trace - 10:04:15 PM] Received notification 'window/logMessage'.
+2023-11-22 22:04:15.028 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:04:15.175 [info] [Trace - 10:04:15 PM] Received response 'textDocument/formatting - (26)' in 150ms.
+2023-11-22 22:04:22.099 [info] [Trace - 10:04:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:22.465 [info] [Trace - 10:04:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:22.728 [info] [Trace - 10:04:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:22.834 [info] [Trace - 10:04:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:23.676 [info] [Trace - 10:04:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:25.216 [info] [Trace - 10:04:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:26.019 [info] [Trace - 10:04:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:30.440 [info] [Trace - 10:04:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:31.054 [info] [Trace - 10:04:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:32.191 [info] [Trace - 10:04:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:32.416 [info] [Trace - 10:04:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:32.550 [info] [Trace - 10:04:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:32.627 [info] [Trace - 10:04:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:33.136 [info] [Trace - 10:04:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:04:33.948 [info] [Trace - 10:04:33 PM] Sending request 'textDocument/formatting - (27)'.
+2023-11-22 22:04:33.954 [info] [Trace - 10:04:33 PM] Received notification 'window/logMessage'.
+2023-11-22 22:04:33.954 [info] /bin/python -m autopep8 -
+2023-11-22 22:04:33.955 [info] [Trace - 10:04:33 PM] Received notification 'window/logMessage'.
+2023-11-22 22:04:33.955 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:04:34.087 [info] [Trace - 10:04:34 PM] Received response 'textDocument/formatting - (27)' in 139ms.
+2023-11-22 22:05:01.436 [info] [Trace - 10:05:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:01.877 [info] [Trace - 10:05:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:02.026 [info] [Trace - 10:05:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:02.246 [info] [Trace - 10:05:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:02.779 [info] [Trace - 10:05:02 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:03.533 [info] [Trace - 10:05:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:05:05.735 [info] [Trace - 10:05:05 PM] Sending request 'textDocument/formatting - (28)'.
+2023-11-22 22:05:05.741 [info] [Trace - 10:05:05 PM] Received notification 'window/logMessage'.
+2023-11-22 22:05:05.741 [info] /bin/python -m autopep8 -
+2023-11-22 22:05:05.742 [info] [Trace - 10:05:05 PM] Received notification 'window/logMessage'.
+2023-11-22 22:05:05.742 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:05:05.880 [info] [Trace - 10:05:05 PM] Received response 'textDocument/formatting - (28)' in 145ms.
+2023-11-22 22:06:08.510 [info] [Trace - 10:06:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:09.102 [info] [Trace - 10:06:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:09.293 [info] [Trace - 10:06:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:09.735 [info] [Trace - 10:06:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:10.215 [info] [Trace - 10:06:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:10.457 [info] [Trace - 10:06:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:10.630 [info] [Trace - 10:06:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:10.752 [info] [Trace - 10:06:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:11.719 [info] [Trace - 10:06:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:11.953 [info] [Trace - 10:06:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:12.151 [info] [Trace - 10:06:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:12.329 [info] [Trace - 10:06:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:12.518 [info] [Trace - 10:06:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:16.046 [info] [Trace - 10:06:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:16.255 [info] [Trace - 10:06:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:16.458 [info] [Trace - 10:06:16 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:19.829 [info] [Trace - 10:06:19 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:20.049 [info] [Trace - 10:06:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:20.234 [info] [Trace - 10:06:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:20.449 [info] [Trace - 10:06:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:20.643 [info] [Trace - 10:06:20 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:21.013 [info] [Trace - 10:06:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:24.487 [info] [Trace - 10:06:24 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.180 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.273 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.379 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.482 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.698 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:25.894 [info] [Trace - 10:06:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:26.078 [info] [Trace - 10:06:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:26.192 [info] [Trace - 10:06:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:26.372 [info] [Trace - 10:06:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:27.163 [info] [Trace - 10:06:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:27.578 [info] [Trace - 10:06:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:27.681 [info] [Trace - 10:06:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:27.941 [info] [Trace - 10:06:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:28.079 [info] [Trace - 10:06:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:28.837 [info] [Trace - 10:06:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:31.331 [info] [Trace - 10:06:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:34.540 [info] [Trace - 10:06:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:35.201 [info] [Trace - 10:06:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:36.616 [info] [Trace - 10:06:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:37.159 [info] [Trace - 10:06:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:38.435 [info] [Trace - 10:06:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:38.610 [info] [Trace - 10:06:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:38.779 [info] [Trace - 10:06:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:38.935 [info] [Trace - 10:06:38 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:39.099 [info] [Trace - 10:06:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:39.315 [info] [Trace - 10:06:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:39.497 [info] [Trace - 10:06:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:39.674 [info] [Trace - 10:06:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:39.883 [info] [Trace - 10:06:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:40.857 [info] [Trace - 10:06:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:06:43.423 [info] [Trace - 10:06:43 PM] Sending request 'textDocument/formatting - (29)'.
+2023-11-22 22:06:43.432 [info] [Trace - 10:06:43 PM] Received notification 'window/logMessage'.
+2023-11-22 22:06:43.433 [info] /bin/python -m autopep8 -
+2023-11-22 22:06:43.433 [info] [Trace - 10:06:43 PM] Received notification 'window/logMessage'.
+2023-11-22 22:06:43.433 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:06:43.578 [info] [Trace - 10:06:43 PM] Received response 'textDocument/formatting - (29)' in 155ms.
+2023-11-22 22:07:07.370 [info] [Trace - 10:07:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:10.131 [info] [Trace - 10:07:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:13.578 [info] [Trace - 10:07:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:13.794 [info] [Trace - 10:07:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:13.989 [info] [Trace - 10:07:13 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:15.094 [info] [Trace - 10:07:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:07:20.345 [info] [Trace - 10:07:20 PM] Sending request 'textDocument/formatting - (30)'.
+2023-11-22 22:07:20.347 [info] [Trace - 10:07:20 PM] Received notification 'window/logMessage'.
+2023-11-22 22:07:20.347 [info] /bin/python -m autopep8 -
+2023-11-22 22:07:20.347 [info] [Trace - 10:07:20 PM] Received notification 'window/logMessage'.
+2023-11-22 22:07:20.347 [info] CWD Server: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-22 22:07:20.442 [info] [Trace - 10:07:20 PM] Received response 'textDocument/formatting - (30)' in 97ms.
+2023-11-22 22:13:55.861 [info] [Trace - 10:13:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:03.275 [info] [Trace - 10:14:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:03.448 [info] [Trace - 10:14:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:03.652 [info] [Trace - 10:14:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:03.782 [info] [Trace - 10:14:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:03.953 [info] [Trace - 10:14:03 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:04.344 [info] [Trace - 10:14:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:04.470 [info] [Trace - 10:14:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:04.632 [info] [Trace - 10:14:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:04.776 [info] [Trace - 10:14:04 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:06.142 [info] [Trace - 10:14:06 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:07.137 [info] [Trace - 10:14:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:07.977 [info] [Trace - 10:14:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:08.394 [info] [Trace - 10:14:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:09.026 [info] [Trace - 10:14:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:09.207 [info] [Trace - 10:14:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:09.317 [info] [Trace - 10:14:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:09.429 [info] [Trace - 10:14:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:09.859 [info] [Trace - 10:14:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:10.701 [info] [Trace - 10:14:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:11.741 [info] [Trace - 10:14:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:11.873 [info] [Trace - 10:14:11 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:12.025 [info] [Trace - 10:14:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:12.187 [info] [Trace - 10:14:12 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:15.037 [info] [Trace - 10:14:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:15.189 [info] [Trace - 10:14:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:15.967 [info] [Trace - 10:14:15 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:18.151 [info] [Trace - 10:14:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:18.506 [info] [Trace - 10:14:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:18.876 [info] [Trace - 10:14:18 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:21.076 [info] [Trace - 10:14:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:21.194 [info] [Trace - 10:14:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:21.292 [info] [Trace - 10:14:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:21.346 [info] [Trace - 10:14:21 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:22.443 [info] [Trace - 10:14:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:22.508 [info] [Trace - 10:14:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:22.682 [info] [Trace - 10:14:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:22.713 [info] [Trace - 10:14:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:23.312 [info] [Trace - 10:14:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:23.514 [info] [Trace - 10:14:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:25.781 [info] [Trace - 10:14:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:25.987 [info] [Trace - 10:14:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:26.160 [info] [Trace - 10:14:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:26.249 [info] [Trace - 10:14:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:26.477 [info] [Trace - 10:14:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:27.411 [info] [Trace - 10:14:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:27.789 [info] [Trace - 10:14:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:28.005 [info] [Trace - 10:14:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:28.664 [info] [Trace - 10:14:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:29.236 [info] [Trace - 10:14:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:29.412 [info] [Trace - 10:14:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:29.564 [info] [Trace - 10:14:29 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.078 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.225 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.381 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.576 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.763 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:30.921 [info] [Trace - 10:14:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:31.122 [info] [Trace - 10:14:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:31.278 [info] [Trace - 10:14:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:31.694 [info] [Trace - 10:14:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:32.154 [info] [Trace - 10:14:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:32.259 [info] [Trace - 10:14:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:32.407 [info] [Trace - 10:14:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:33.588 [info] [Trace - 10:14:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:33.706 [info] [Trace - 10:14:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:33.896 [info] [Trace - 10:14:33 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:34.026 [info] [Trace - 10:14:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:34.159 [info] [Trace - 10:14:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:34.355 [info] [Trace - 10:14:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:35.681 [info] [Trace - 10:14:35 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:36.204 [info] [Trace - 10:14:36 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:37.921 [info] [Trace - 10:14:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:39.224 [info] [Trace - 10:14:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:39.360 [info] [Trace - 10:14:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:39.479 [info] [Trace - 10:14:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:39.580 [info] [Trace - 10:14:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:39.892 [info] [Trace - 10:14:39 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:40.118 [info] [Trace - 10:14:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:40.947 [info] [Trace - 10:14:40 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:41.052 [info] [Trace - 10:14:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:41.257 [info] [Trace - 10:14:41 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:42.996 [info] [Trace - 10:14:42 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:43.211 [info] [Trace - 10:14:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:43.387 [info] [Trace - 10:14:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:43.499 [info] [Trace - 10:14:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:43.716 [info] [Trace - 10:14:43 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:46.077 [info] [Trace - 10:14:46 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:49.307 [info] [Trace - 10:14:49 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:50.474 [info] [Trace - 10:14:50 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:51.022 [info] [Trace - 10:14:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:51.285 [info] [Trace - 10:14:51 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:54.915 [info] [Trace - 10:14:54 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:55.021 [info] [Trace - 10:14:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:55.104 [info] [Trace - 10:14:55 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:58.843 [info] [Trace - 10:14:58 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:59.254 [info] [Trace - 10:14:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:14:59.482 [info] [Trace - 10:14:59 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:01.408 [info] [Trace - 10:16:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:01.489 [info] [Trace - 10:16:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:01.613 [info] [Trace - 10:16:01 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:07.648 [info] [Trace - 10:16:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:07.866 [info] [Trace - 10:16:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:08.261 [info] [Trace - 10:16:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:08.486 [info] [Trace - 10:16:08 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:09.372 [info] [Trace - 10:16:09 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:10.557 [info] [Trace - 10:16:10 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:22.748 [info] [Trace - 10:16:22 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:23.299 [info] [Trace - 10:16:23 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:25.988 [info] [Trace - 10:16:25 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:26.639 [info] [Trace - 10:16:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:26.971 [info] [Trace - 10:16:26 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:27.259 [info] [Trace - 10:16:27 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:28.964 [info] [Trace - 10:16:28 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:30.069 [info] [Trace - 10:16:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:30.500 [info] [Trace - 10:16:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:30.602 [info] [Trace - 10:16:30 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:31.878 [info] [Trace - 10:16:31 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:32.218 [info] [Trace - 10:16:32 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:34.368 [info] [Trace - 10:16:34 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:16:37.462 [info] [Trace - 10:16:37 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 22:17:07.900 [info] [Trace - 10:17:07 PM] Sending notification 'textDocument/didChange'.
+2023-11-22 23:34:17.360 [info] [Trace - 11:34:17 PM] Sending request 'textDocument/formatting - (31)'.
+2023-11-22 23:34:17.397 [info] [Trace - 11:34:17 PM] Received notification 'window/logMessage'.
+2023-11-22 23:34:17.397 [info] [Error - 11:34:17 PM] Syntax error in code: Traceback (most recent call last):
+  File "/home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool/lsp_server.py", line 94, in is_python
+    ast.parse(code)
+  File "/usr/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 359
+    """
+IndentationError: expected an indented block after 'if' statement on line 356
+
+2023-11-22 23:34:17.397 [info] [Trace - 11:34:17 PM] Received notification 'window/logMessage'.
+2023-11-22 23:34:17.397 [info] [Warn  - 11:34:17 PM] Skipping non python code: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-22 23:34:17.398 [info] [Trace - 11:34:17 PM] Received response 'textDocument/formatting - (31)' in 37ms.
+2023-11-22 23:34:23.540 [info] [Trace - 11:34:23 PM] Sending request 'shutdown - (32)'.
+2023-11-22 23:34:23.558 [info] [Trace - 11:34:23 PM] Received response 'shutdown - (32)' in 24ms.
+2023-11-22 23:34:23.559 [info] [Trace - 11:34:23 PM] Sending notification 'exit'.

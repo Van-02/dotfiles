@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "'Mononoki Nerd Font', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 18,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "notebook.breadcrumbs.showCodeCells": false,
+    "terminal.integrated.fontSize": 16
+    "python.formatting.provider": "none",
+    "files.insertFinalNewline": true,
+    "zenMode.centerLayout": true,
+}

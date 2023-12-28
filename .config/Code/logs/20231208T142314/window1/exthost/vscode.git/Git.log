@@ -1,0 +1,74 @@
+2023-12-08 14:23:22.151 [info] Log level: Info
+2023-12-08 14:23:22.151 [info] Validating found git in: "git"
+2023-12-08 14:23:22.367 [info] Using git "2.43.0" from "git"
+2023-12-08 14:23:22.408 [info] > git rev-parse --show-toplevel [17ms]
+2023-12-08 14:23:22.408 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:44:58.626 [info] Log level: Info
+2023-12-08 14:44:58.654 [info] Validating found git in: "git"
+2023-12-08 14:44:58.654 [info] Using git "2.43.0" from "git"
+2023-12-08 14:44:58.654 [info] > git rev-parse --show-toplevel [4ms]
+2023-12-08 14:44:58.654 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:44:58.657 [info] > git rev-parse --show-toplevel [41ms]
+2023-12-08 14:44:58.657 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:44:59.725 [info] > git rev-parse --show-toplevel [1000ms]
+2023-12-08 14:44:59.725 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.218 [info] > git rev-parse --show-toplevel [419ms]
+2023-12-08 14:45:00.218 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.309 [info] > git rev-parse --show-toplevel [8ms]
+2023-12-08 14:45:00.309 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.338 [info] > git rev-parse --show-toplevel [18ms]
+2023-12-08 14:45:00.339 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.397 [info] > git rev-parse --show-toplevel [52ms]
+2023-12-08 14:45:00.397 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.406 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-08 14:45:00.406 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.414 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-08 14:45:00.414 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.424 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-08 14:45:00.424 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.431 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-08 14:45:00.431 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.438 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-08 14:45:00.438 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.629 [info] > git rev-parse --show-toplevel [182ms]
+2023-12-08 14:45:00.649 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-12-08 14:45:00.710 [info] Open repository: /home/lalik/University
+2023-12-08 14:45:00.769 [info] > git config --get commit.template [40ms]
+2023-12-08 14:45:00.868 [info] > git rev-parse --show-toplevel [127ms]
+2023-12-08 14:45:00.876 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-12-08 14:45:00.883 [info] Open repository: /home/lalik/Wallpapers
+2023-12-08 14:45:00.907 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-08 14:45:00.907 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:00.909 [info] > git config --get commit.template [16ms]
+2023-12-08 14:45:00.928 [info] > git rev-parse --show-toplevel [13ms]
+2023-12-08 14:45:00.928 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:01.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [434ms]
+2023-12-08 14:45:01.284 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [358ms]
+2023-12-08 14:45:01.314 [info] > git status -z -uall [100ms]
+2023-12-08 14:45:01.401 [info] > git config --get commit.template [13ms]
+2023-12-08 14:45:01.530 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [108ms]
+2023-12-08 14:45:01.560 [info] > git check-ignore -v -z --stdin [39ms]
+2023-12-08 14:45:01.560 [info] > git status -z -uall [24ms]
+2023-12-08 14:45:01.587 [info] > git check-ignore -v -z --stdin [59ms]
+2023-12-08 14:45:04.546 [info] > git status -z -uall [3239ms]
+2023-12-08 14:45:04.630 [info] > git rev-parse --show-toplevel [100ms]
+2023-12-08 14:45:04.630 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-12-08 14:45:04.630 [info] > git config --get commit.template [73ms]
+2023-12-08 14:45:04.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2023-12-08 14:45:05.103 [info] > git status -z -uall [463ms]

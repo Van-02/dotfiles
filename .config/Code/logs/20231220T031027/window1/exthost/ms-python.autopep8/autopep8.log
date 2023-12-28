@@ -1,0 +1,78 @@
+2023-12-20 03:10:52.163 [info] Name: autopep8
+2023-12-20 03:10:52.163 [info] Module: autopep8
+2023-12-20 03:10:52.163 [info] Default formatter is set to ms-python.autopep8 for workspace /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:10:52.164 [info] Python extension loading
+2023-12-20 03:10:52.164 [info] Waiting for interpreter from python extension.
+2023-12-20 03:10:52.164 [info] No interpreter found from setting autopep8.interpreter
+2023-12-20 03:10:52.164 [info] Getting interpreter from ms-python.python extension for workspace /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:10:52.164 [info] Python extension loaded
+2023-12-20 03:10:52.164 [info] Interpreter from ms-python.python extension for /home/lalik/Workspace/curses/Hello-Python: /bin/python
+2023-12-20 03:10:52.164 [info] No interpreter found from setting autopep8.interpreter
+2023-12-20 03:10:52.164 [info] Getting interpreter from ms-python.python extension for workspace /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:10:52.164 [info] Interpreter from ms-python.python extension for /home/lalik/Workspace/curses/Hello-Python: /bin/python
+2023-12-20 03:10:52.164 [info] Server run command: /bin/python /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool/lsp_server.py
+2023-12-20 03:10:52.164 [info] Server: Start requested.
+2023-12-20 03:11:09.678 [info] CWD Server: /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:11:09.678 [info] sys.path used to run Server:
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/libs
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/tool
+   /usr/lib/python311.zip
+   /usr/lib/python3.11
+   /usr/lib/python3.11/lib-dynload
+   /usr/lib/python3.11/site-packages
+2023-12-20 03:11:09.678 [info] PYTHONPATH env variable used to run Server:
+   /home/lalik/.vscode/extensions/ms-python.autopep8-2023.8.0/bundled/libs:
+2023-12-20 03:11:09.679 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/lalik/Workspace/curses/Hello-Python",
+        "workspace": "file:///home/lalik/Workspace/curses/Hello-Python",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2023-12-20 03:11:09.679 [info] Global settings:
+{
+    "cwd": "/home/lalik/Workspace/curses/Hello-Python",
+    "workspace": "/home/lalik/Workspace/curses/Hello-Python",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2023-12-20 03:11:09.679 [info] /bin/python -m autopep8 --version
+2023-12-20 03:11:09.679 [info] CWD Server: /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:11:10.675 [info] Version info for formatter running for /home/lalik/Workspace/curses/Hello-Python:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2023-12-20 03:11:10.678 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+
+2023-12-20 03:11:10.680 [info] /bin/python -m autopep8 --version
+2023-12-20 03:11:10.683 [info] CWD Server: /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:11:10.919 [info] Version info for formatter running for /home/lalik/Workspace/curses/Hello-Python:
+autopep8 2.0.4 (pycodestyle: 2.11.1)
+
+2023-12-20 03:11:10.919 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.0.4
+
+2023-12-20 03:11:21.903 [info] [Trace - 3:11:21 AM] Sending notification 'textDocument/didChange'.
+2023-12-20 03:11:22.947 [info] [Trace - 3:11:22 AM] Sending notification 'textDocument/didChange'.
+2023-12-20 03:11:34.494 [info] [Trace - 3:11:34 AM] Sending notification 'textDocument/didChange'.
+2023-12-20 03:11:36.588 [info] [Trace - 3:11:36 AM] Sending request 'textDocument/formatting - (1)'.
+2023-12-20 03:11:36.621 [info] [Trace - 3:11:36 AM] Received notification 'window/logMessage'.
+2023-12-20 03:11:36.621 [info] /bin/python -m autopep8 -
+2023-12-20 03:11:36.626 [info] [Trace - 3:11:36 AM] Received notification 'window/logMessage'.
+2023-12-20 03:11:36.626 [info] CWD Server: /home/lalik/Workspace/curses/Hello-Python
+2023-12-20 03:11:37.898 [info] [Trace - 3:11:37 AM] Received response 'textDocument/formatting - (1)' in 1310ms.
+2023-12-20 03:11:37.906 [info] [Trace - 3:11:37 AM] Sending notification 'textDocument/didChange'.
+2023-12-20 03:14:24.659 [info] /bin/python -m autopep8 -
+2023-12-20 03:14:24.686 [info] CWD Server: /home/lalik/Workspace/curses/Hello-Python

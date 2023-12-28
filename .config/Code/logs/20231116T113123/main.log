@@ -1,0 +1,27 @@
+2023-11-16 11:31:24.821 [info] update#setState idle
+2023-11-16 11:31:33.253 [error] update#isLatestVersion(): failed to check for updates
+2023-11-16 11:31:33.254 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-16 11:31:54.888 [info] update#setState checking for updates
+2023-11-16 11:31:54.892 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-16 11:31:54.893 [info] update#setState idle
+2023-11-16 12:31:54.894 [info] update#setState checking for updates
+2023-11-16 12:31:54.900 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49876)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-11-16 12:31:54.900 [info] update#setState idle
+2023-11-16 13:31:54.900 [info] update#setState checking for updates
+2023-11-16 13:31:55.526 [info] update#setState idle
+2023-11-16 14:31:54.904 [info] update#setState checking for updates
+2023-11-16 14:31:55.436 [info] update#setState idle
+2023-11-16 15:31:54.909 [info] update#setState checking for updates
+2023-11-16 15:31:55.553 [info] update#setState idle
+2023-11-16 16:31:54.914 [info] update#setState checking for updates
+2023-11-16 16:31:55.566 [info] update#setState idle
+2023-11-16 17:31:54.917 [info] update#setState checking for updates
+2023-11-16 17:31:55.477 [info] update#setState idle
+2023-11-16 17:56:37.270 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 988]: crashed with code 15 and reason 'killed'
+2023-11-16 17:56:37.275 [info] Extension host with pid 976 exited with code: 0, signal: unknown.

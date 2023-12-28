@@ -1,0 +1,24 @@
+2023-12-07 16:07:49.630 [info] Extension host with pid 4211 started
+2023-12-07 16:07:49.630 [info] Skipping acquiring lock for /home/lalik/.config/Code/User/workspaceStorage/1f39951254075c3acf6eadb934b51655.
+2023-12-07 16:07:49.950 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-07 16:07:49.998 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-07 16:07:50.209 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-07 16:07:50.563 [info] Eager extensions activated
+2023-12-07 16:07:50.590 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-07 16:07:50.846 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-07 16:07:51.080 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-07 16:07:51.188 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-12-07 16:07:51.389 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-12-07 16:07:52.666 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-07 16:07:52.692 [error] Canceled: Canceled
+	at Object.P [as $6] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1032)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7673
+	at Array.forEach (<anonymous>)
+	at n.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7611)
+	at h.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:136:8028)
+	at o.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:1513)
+	at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:9817)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6242)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-12-07 16:07:52.692 [info] Extension host with pid 4211 exiting with code 0

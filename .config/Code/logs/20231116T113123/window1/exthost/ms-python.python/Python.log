@@ -1,0 +1,71 @@
+2023-11-16 11:31:33.347 [info] Experiment 'pythonaacf' is active
+2023-11-16 11:31:33.347 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-11-16 11:31:33.347 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-11-16 11:31:33.347 [info] Experiment 'pythonREPLSmartSendcf' is active
+2023-11-16 11:31:33.347 [info] Experiment 'pythonTestAdapter' is active
+2023-11-16 11:31:33.347 [info] Default formatter is set to ms-python.autopep8 for workspace /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9
+2023-11-16 11:31:33.347 [info] Test server listening.
+2023-11-16 11:31:33.348 [info] Python interpreter path: /bin/python
+2023-11-16 11:31:35.217 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-16 11:31:35.217 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-16 11:31:35.766 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-16 11:31:39.502 [info] Starting Pylance language server.
+2023-11-16 11:32:52.497 [info] Send text to terminal: /bin/python "/home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py"
+2023-11-16 11:32:52.685 [info] CreateEnv Trigger - Skipping for /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 11:34:20.152 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 11:42:59.050 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 11:59:17.462 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 11:59:52.284 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:00:06.124 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:00:33.803 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:01:21.318 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:01:33.175 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:03:33.651 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:05:25.803 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:08:34.367 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:09:48.896 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:10:37.274 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:11:43.582 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:12:14.125 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:13:09.667 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:13:19.906 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:14:11.046 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:14:24.628 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:14:40.902 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:15:10.001 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:16:11.035 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:16:56.268 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:19:11.352 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:20:39.199 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:20:57.721 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:21:08.987 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:24:16.435 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:26:27.974 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:26:33.113 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:26:58.659 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:27:29.105 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:27:41.910 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:28:14.503 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:28:28.832 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:28:36.745 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:29:06.623 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:29:35.009 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:31:23.245 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:33:42.209 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:33:47.273 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:34:22.146 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:36:03.434 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:36:29.969 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:37:38.643 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:39:15.902 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:39:36.913 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:40:17.277 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:40:21.937 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:40:58.928 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:41:12.272 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:42:46.083 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:50:46.830 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:50:57.038 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:52:41.162 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:53:19.029 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py
+2023-11-16 12:54:06.226 [info] Discover tests for workspace name: Work 9 - uri: /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9/practico_9.py

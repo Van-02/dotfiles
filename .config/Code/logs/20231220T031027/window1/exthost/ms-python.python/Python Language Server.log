@@ -1,0 +1,36 @@
+2023-12-20 03:11:00.505 [info] [Info  - 3:10:59 AM] (301398) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
+2023-12-20 03:11:00.507 [info] [Info  - 3:11:00 AM] (301398) Server root directory: /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
+2023-12-20 03:11:00.507 [info] [Info  - 3:11:00 AM] (301398) Starting service instance "Hello-Python"
+2023-12-20 03:11:00.754 [info] [Info  - 3:11:00 AM] (301398) Setting pythonPath for service "Hello-Python": "/bin/python"
+2023-12-20 03:11:00.754 [info] [Info  - 3:11:00 AM] (301398) Setting environmentName for service "Hello-Python": "3.11.6 (global)"
+2023-12-20 03:11:04.397 [info] [Info  - 3:11:04 AM] (301398) Assuming Python version 3.11
+2023-12-20 03:11:08.544 [info] [Info  - 3:11:08 AM] (301398) Found 3 source files
+2023-12-20 03:11:13.550 [info] [Info  - 3:11:13 AM] (301398) [BG(1)] Long operation: getSemanticTokens full at /home/lalik/Workspace/curses/Hello-Python/02_operators.py (3194ms)
+2023-12-20 03:11:16.826 [info] [Info  - 3:11:16 AM] (301398) [IDX(2)] Long operation: scan packages /home/lalik/Workspace/curses/Hello-Python (4513ms)
+2023-12-20 03:11:25.980 [info] [Info  - 3:11:25 AM] (301398) [IDX(2)] Long operation: index execution environment /home/lalik/Workspace/curses/Hello-Python (8766ms)
+2023-12-20 03:11:26.140 [info] [Info  - 3:11:26 AM] (301398) [IDX(2)] Long operation: index packages /home/lalik/Workspace/curses/Hello-Python (9054ms)
+2023-12-20 03:12:51.983 [info] [Info  - 3:12:51 AM] (301398) Setting pythonPath for service "Hello-Python": "/bin/python"
+2023-12-20 03:12:51.983 [info] [Info  - 3:12:51 AM] (301398) Setting environmentName for service "Hello-Python": "3.11.6 (global)"
+2023-12-20 03:12:52.099 [info] [Info  - 3:12:52 AM] (301398) Assuming Python version 3.11
+2023-12-20 03:12:52.195 [info] [Info  - 3:12:52 AM] (301398) Found 3 source files
+2023-12-20 03:12:59.546 [info] [Info  - 3:12:59 AM] (301398) Setting pythonPath for service "Hello-Python": "/bin/python"
+2023-12-20 03:12:59.547 [info] [Info  - 3:12:59 AM] (301398) Setting environmentName for service "Hello-Python": "3.11.6 (global)"
+2023-12-20 03:12:59.585 [info] [Info  - 3:12:59 AM] (301398) Assuming Python version 3.11
+2023-12-20 03:12:59.642 [info] [Info  - 3:12:59 AM] (301398) Found 3 source files
+2023-12-20 03:13:01.710 [info] [Info  - 3:13:01 AM] (301398) Setting pythonPath for service "Hello-Python": "/bin/python"
+2023-12-20 03:13:01.710 [info] [Info  - 3:13:01 AM] (301398) Setting environmentName for service "Hello-Python": "3.11.6 (global)"
+2023-12-20 03:13:01.743 [info] [Info  - 3:13:01 AM] (301398) Assuming Python version 3.11
+2023-12-20 03:13:01.806 [info] [Info  - 3:13:01 AM] (301398) Found 3 source files
+2023-12-20 03:13:04.762 [info] [Info  - 3:13:04 AM] (301398) Setting pythonPath for service "Hello-Python": "/bin/python"
+2023-12-20 03:13:04.762 [info] [Info  - 3:13:04 AM] (301398) Setting environmentName for service "Hello-Python": "3.11.6 (global)"
+2023-12-20 03:13:04.816 [info] [Info  - 3:13:04 AM] (301398) Assuming Python version 3.11
+2023-12-20 03:13:04.890 [info] [Info  - 3:13:04 AM] (301398) Found 3 source files
+2023-12-20 03:14:25.638 [info] [Error - 3:14:25 AM] Sending document notification textDocument/didSave failed.
+2023-12-20 03:14:25.638 [info]   Message: Client is not running
+  Code: -32096 
+2023-12-20 03:14:25.921 [info] [Error - 3:14:25 AM] Notify file events failed.
+2023-12-20 03:14:25.921 [info]   Message: Client is not running
+  Code: -32096 
+2023-12-20 03:14:44.557 [info] [Error - 3:14:44 AM] Sending document notification textDocument/didClose failed.
+2023-12-20 03:14:44.557 [info]   Message: Client is not running
+  Code: -32096 

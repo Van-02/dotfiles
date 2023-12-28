@@ -1,0 +1,11 @@
+# Ignore everything
+/*
+/.config/nvim 
+
+# Except for the files and folders we want to track
+!.gitignore
+!.config
+!.bashrc
+!.p10k.zsh
+!.xsession
+!.zshrc

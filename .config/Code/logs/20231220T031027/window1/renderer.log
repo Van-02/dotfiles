@@ -1,0 +1,6 @@
+2023-12-20 03:10:34.462 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-20 03:10:37.391 [error] Extension 'ms-python.python' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent
+product.json (WINS): contribEditorContentMenu, quickPickSortByLabel, portsAttributes, testObserver, quickPickItemTooltip, terminalDataWriteEvent, saveEditor
+2023-12-20 03:10:43.817 [info] [perf] Render performance baseline is 140ms
+2023-12-20 03:13:53.093 [error] ENOENT: no such file or directory, open '/home/lalik/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/lalik/.config/Code/User/globalStorage/vscodevim.vim/.registers'

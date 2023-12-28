@@ -1,0 +1,23 @@
+2023-12-07 16:08:04.337 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-07 16:08:07.929 [info] [perf] Render performance baseline is 61ms
+2023-12-07 16:21:09.427 [error] Canceled: Canceled
+	at h.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:13096)
+	at c.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at R.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:5965)
+	at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:6375)
+	at Object.K (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:9665)
+	at n.N (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:10148)
+	at n.L (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:8996)
+	at h.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:7565)
+	at c.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at h.value (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:7918)
+	at c.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at c.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at d.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:14047)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6198)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)

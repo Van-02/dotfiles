@@ -1,0 +1,5 @@
+2023-12-20 03:13:57.548 [info] Active editor: file:///home/lalik/Workspace/curses/Hello-Python/02_operators.py
+2023-12-20 03:14:44.466 [info] Executing :q
+2023-12-20 03:14:44.556 [info] /home/lalik/Workspace/curses/Hello-Python/02_operators.py closed
+2023-12-20 03:14:44.580 [warning] getLineLength() called with out-of-bounds line 53
+2023-12-20 03:14:44.580 [warning] getLineLength() called with out-of-bounds line 53
