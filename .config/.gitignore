@@ -2,7 +2,7 @@
 /*
 !.gitignore
 
-# Except for the files and folders we want to track
+#Except for the files and folders we want to track
 !alacritty
 !bat
 !gtk-3.0

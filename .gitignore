@@ -1,6 +1,5 @@
 # Ignore everything
 /*
-/.config/nvim 
 
 # Except for the files and folders we want to track
 !.gitignore
