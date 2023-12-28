@@ -1,0 +1,15 @@
+# Ignore everything
+/*
+!.gitignore
+
+# Except for the files and folders we want to track
+!alacritty
+!bat
+!gtk-3.0
+!htop
+!kitty
+!neofetch
+!qtile
+!ranger
+!rofi
+!spectrwm
