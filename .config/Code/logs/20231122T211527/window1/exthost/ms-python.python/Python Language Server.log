@@ -1,8 +1,0 @@
-2023-11-22 21:15:43.838 [info] [Info  - 9:15:43 PM] (1092) Pylance language server 2023.11.10 (pyright 088ebaa5) starting
-2023-11-22 21:15:43.838 [info] [Info  - 9:15:43 PM] (1092) Server root directory: /home/lalik/.vscode/extensions/ms-python.vscode-pylance-2023.11.10/dist
-2023-11-22 21:15:43.838 [info] [Info  - 9:15:43 PM] (1092) Starting service instance "Work 9"
-2023-11-22 21:15:43.910 [info] [Info  - 9:15:43 PM] (1092) Setting pythonPath for service "Work 9": "/bin/python"
-2023-11-22 21:15:43.910 [info] [Info  - 9:15:43 PM] (1092) Setting environmentName for service "Work 9": "3.11.5 (global)"
-2023-11-22 21:15:43.957 [info] [Info  - 9:15:43 PM] (1092) Assuming Python version 3.11
-2023-11-22 21:15:45.137 [info] [Info  - 9:15:45 PM] (1092) Found 1 source file
-2023-11-22 21:17:53.763 [info] [Info  - 9:17:53 PM] (1092) [IDX(4)] Long operation: scan packages /home/lalik/University/First Year/Algoritmo y estructuras de datos/Work 9 (2873ms)
