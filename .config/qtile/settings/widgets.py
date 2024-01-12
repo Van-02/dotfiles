@@ -11,7 +11,7 @@ def base(fg='text', bg='dark'):
 
 
 def separator():
-    return widget.Sep(**base(), linewidth=0, padding=5)
+    return widget.Sep(**base(), linewidth=0, padding=12)
 
 
 def icon(fg='text', bg='dark', fontsize=16, text="?"):
@@ -26,9 +26,9 @@ def icon(fg='text', bg='dark', fontsize=16, text="?"):
 def powerline(fg="light", bg="dark"):
     return widget.TextBox(
         **base(fg, bg),
-        text=" ", # Icon: nf-oct-triangle_left
-        fontsize=55,
-        padding=-21.5
+        text=" ", # Icon: nf-ple-left_half_circle_thick
+        fontsize=25,
+        padding=-0.30
     )
 
 

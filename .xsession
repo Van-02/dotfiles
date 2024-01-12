@@ -44,4 +44,4 @@ xrandr --output eDP-1 --primary --mode 1366x768 --pos 0x0 --rotate normal --outp
 # Automount Devices
 udiskie -t &
 # Wallpaper
-feh --bg-scale Wallpapers/black-12.jpg &
+feh --bg-scale Wallpapers/02.jpg &

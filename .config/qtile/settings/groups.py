@@ -16,9 +16,17 @@ from .keys import mod, keys
 # nf-mdi-image, 
 # nf-mdi-layers
 
-groups = [Group(i) for i in [
-    "   ", "   ", "   ", "   ", "   ", "   ", " 󰍹  "
-]]
+groups = [
+    Group("1", label=""),
+    Group("2", label=""),
+    Group("3", label=""),
+    Group("4", label=""),
+    Group("5", label=""),
+    Group("6", label=""),
+    Group("7", label=""),
+    Group("8", label=""),
+    Group("9", label="")
+]
 
 for i, group in enumerate(groups):
     actual_key = str(i + 1)
