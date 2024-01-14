@@ -3,7 +3,9 @@
 !.gitignore
 
 # Except for the files and folders we want to track
+!README.md
 !.config
+!.screenshots
 !.bashrc
 !.p10k.zsh
 !.xsession
