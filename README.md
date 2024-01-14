@@ -103,3 +103,5 @@ reboot
 ```
 
 Now you should be able to log in to Qtile from LightDM.
+
+--------
