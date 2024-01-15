@@ -13,6 +13,7 @@
 - **Editor: [Neovim](https://neovim.io/)/[VScode](https://code.visualstudio.com/)**
 - **Compositor: [Picom](https://github.com/yshui/picom)**
 - **Application Launcher: [Rofi](https://github.com/davatorium/rofi)**
+- **Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)**
 - **File Manager: [Ranger](https://github.com/ranger/ranger)/[Thunar](https://docs.xfce.org/xfce/thunar/start)**
 
 ## How to install my setup
@@ -102,4 +103,33 @@ sudo systemctl enable lightdm
 reboot
 ```
 
-Now you should be able to log in to Qtile from LightDM.
+Now you should be able to log in to Qtile from LightDM. Afterwards, we will modify the theme and configuration of LightDM and Grub.
+
+## Features of Qtile
+
+- Simple, small and extensible. It’s easy to write your own layouts, widgets and commands.
+- Configured in Python.
+- Command shell that allows all aspects of Qtile to be managed and inspected.
+- Complete remote scriptability - write scripts to set up workspaces, manipulate windows, update status bar widgets and more.
+- Qtile’s remote scriptability makes it one of the most thoroughly unit-tested window managers around.
+
+## How to install Qtile
+
+With `Mod + Enter` open a Terminal
+
+Install Qtile and dependencies:
+
+```
+sudo pacman -S qtile pacman-contrib cbatticon volumeicon udiskie picom network-manager-applet feh thunar ranger alacritty rofi which pulseaudio pavucontrol pamixer brightnessctl arandr libnotify notification-daemon p7zip lxappearance imv redshift scrot zsh
+```
+
+Clone and copy this repository
+
+```
+git clone https://github.com/antoniosarosi/dotfiles.git
+cp -r dotfiles/.config/* ~/.config/.
+cp dotfiles/.xsession ~/.
+chmod u+x .xsession
+```
+
+Reload with `Mod + Ctrl + q`
