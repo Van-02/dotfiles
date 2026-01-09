@@ -1,0 +1,23 @@
+2026/01/06-03:08:15.951 e521 Reusing MANIFEST /home/van/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2026/01/06-03:08:15.954 e521 Recovering log #984
+2026/01/06-03:08:15.954 e521 Reusing old log /home/van/.config/discord/Local Storage/leveldb/000984.log 
+2026/01/06-03:19:09.171 e522 Level-0 table #988: started
+2026/01/06-03:19:09.213 e522 Level-0 table #988: 4265348 bytes OK
+2026/01/06-03:19:09.215 e522 Delete type=0 #984
+2026/01/06-03:19:09.216 e522 Compacting 4@0 + 2@1 files
+2026/01/06-03:19:09.257 e522 Generated table #989@0: 38 keys, 4242533 bytes
+2026/01/06-03:19:09.260 e522 Generated table #990@0: 140 keys, 98132 bytes
+2026/01/06-03:19:09.260 e522 Compacted 4@0 + 2@1 files => 4340665 bytes
+2026/01/06-03:19:09.261 e522 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/01/06-03:19:09.261 e522 Delete type=2 #983
+2026/01/06-03:19:09.261 e522 Delete type=2 #985
+2026/01/06-03:19:09.261 e522 Delete type=2 #981
+2026/01/06-03:19:09.261 e522 Delete type=2 #978
+2026/01/06-03:19:09.261 e522 Delete type=2 #979
+2026/01/06-03:19:09.261 e522 Delete type=2 #988
+2026/01/06-06:02:32.378 e522 Level-0 table #992: started
+2026/01/06-06:02:32.381 e522 Level-0 table #992: 15643 bytes OK
+2026/01/06-06:02:32.382 e522 Delete type=0 #987
+2026/01/06-11:02:14.974 e522 Level-0 table #994: started
+2026/01/06-11:02:14.977 e522 Level-0 table #994: 42012 bytes OK
+2026/01/06-11:02:14.979 e522 Delete type=0 #991

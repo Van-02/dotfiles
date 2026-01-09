@@ -1,0 +1,14 @@
+2026-01-05 21:07:35.345 [info] Native locator: Refresh started
+2026-01-05 21:07:35.366 [info] Native locator: Refresh started
+2026-01-05 21:07:35.388 [info] > conda info --json
+2026-01-05 21:07:35.497 [info] > pyenv which python
+2026-01-05 21:07:35.497 [info] cwd: ~/Workspace/Exercises/Work 5
+2026-01-05 21:07:35.532 [info] Python interpreter path: /bin/python
+2026-01-05 21:07:35.571 [info] Native locator: Refresh finished in 437 ms
+2026-01-05 21:07:37.112 [info] Starting Pylance language server.
+2026-01-05 21:16:43.025 [info] CreateEnv Trigger - Skipping for /home/van/Workspace/Exercises/Work 5/11/11.py
+2026-01-05 23:55:19.438 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/14.py"
+2026-01-06 00:06:27.779 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/15.py"
+2026-01-06 02:31:38.969 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/25.py"
+2026-01-06 07:12:18.886 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2025.20.1-linux-x64/python_files/normalizeSelection.py
+2026-01-06 07:52:25.439 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/38.py"

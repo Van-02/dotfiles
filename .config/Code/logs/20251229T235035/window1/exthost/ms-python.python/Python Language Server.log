@@ -1,0 +1,63 @@
+2025-12-30 00:07:04.949 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.1)
+2025-12-30 00:07:05.357 [info] (18064): Server root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-30 00:07:05.358 [info] (18064): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-30 00:07:05.361 [info] (18064): Starting service instance "Work 5" for workspace "/home/van/Workspace/Exercises/Work 5"
+2025-12-30 00:07:05.858 [info] (18064): Loading background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/van/Workspace/Exercises/Work%205...
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): Setting environmentName for service "Work 5": "3.13.7 (global)"
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): Setting pythonPath for service "Work 5": "/bin/python"
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): No include entries specified; assuming /home/van/Workspace/Exercises/Work 5
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): Auto-excluding **/node_modules
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): Auto-excluding **/__pycache__
+2025-12-30 00:07:05.932 [info] (18064): FG(Work 5): Auto-excluding **/.*
+2025-12-30 00:07:05.944 [info] (18064): FG(Work 5): Assuming Python version 3.13.11.final.0
+2025-12-30 00:07:05.983 [info] (18064): Settings have not changed. Skipping update.
+2025-12-30 00:07:06.063 [info] (18064): Starting Mcp server id:5245 ...
+2025-12-30 00:07:06.292 [info] (18064): PQ(Work 5): Priority queue background worker(2) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-30 00:07:06.293 [info] (18064): PQ(Work 5): Priority queue background worker(2) started
+2025-12-30 00:07:06.314 [info] (18064): FG(Work 5): Found 1 source file
+2025-12-30 00:07:06.449 [info] (18064): IDX(Work 5): Indexer background runner(3) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2025-12-30 00:07:06.449 [info] (18064): IDX(Work 5): Indexing(3) started
+2025-12-30 00:07:06.515 [info] (18064): BG(Work 5): Loaded external background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-30 00:07:06.647 [info] (18064): IDX(Work 5): scanned(3) 76 files over 1 exec env
+2025-12-30 00:07:07.098 [info] (18064): IDX(Work 5): indexed(3) 76 files over 1 exec env
+2025-12-30 00:07:07.106 [info] (18064): IDX(Work 5): Indexing finished(3).
+2025-12-30 00:26:47.110 [info] (18064): Starting service instance "<default>" for workspace ""
+2025-12-30 00:26:47.111 [info] (18064): Loading background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into ...
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): Setting pythonPath for service "<default>": "/bin/python"
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): Auto-excluding **/node_modules
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): Auto-excluding **/__pycache__
+2025-12-30 00:26:47.175 [info] (18064): FG(<default>): Auto-excluding **/.*
+2025-12-30 00:26:47.206 [info] (18064): FG(<default>): Assuming Python version 3.13.11.final.0
+2025-12-30 00:26:47.240 [error] (18064): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-12-30 00:26:47.240 [info] (18064): FG(<default>): No source files found.
+2025-12-30 00:26:47.600 [info] (18064): PQ(<default>): Priority queue background worker(5) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-30 00:26:47.601 [info] (18064): PQ(<default>): Priority queue background worker(5) started
+2025-12-30 00:26:47.779 [info] (18064): BG(<default>): Loaded external background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-30 00:30:16.284 [info] (18064): FG(Work 5): Found 2 source files
+2025-12-30 00:32:05.500 [info] (18064): FG(Work 5): Found 3 source files
+2025-12-30 00:32:51.385 [info] (18064): FG(Work 5): Found 4 source files
+2025-12-30 00:33:55.510 [info] (18064): FG(Work 5): Found 5 source files
+2025-12-30 00:35:13.792 [info] (18064): FG(Work 5): Found 6 source files
+2025-12-30 00:36:19.131 [info] (18064): FG(Work 5): Found 7 source files
+2025-12-30 00:38:25.093 [info] (18064): FG(Work 5): Found 8 source files
+2025-12-30 00:39:17.613 [info] (18064): FG(Work 5): Found 9 source files
+2025-12-30 00:39:48.639 [info] (18064): FG(Work 5): Found 10 source files
+2025-12-30 00:40:41.991 [info] (18064): FG(Work 5): Found 11 source files
+2025-12-30 00:41:30.695 [info] (18064): FG(Work 5): Found 12 source files
+2025-12-30 00:42:05.805 [info] (18064): FG(Work 5): Found 13 source files
+2025-12-30 00:42:38.602 [info] (18064): FG(Work 5): Found 14 source files
+2025-12-30 00:43:54.389 [info] (18064): FG(Work 5): Found 15 source files
+2025-12-30 00:44:25.475 [info] (18064): FG(Work 5): Found 16 source files
+2025-12-30 00:44:43.584 [info] (18064): FG(Work 5): Found 17 source files
+2025-12-30 00:45:08.955 [info] (18064): FG(Work 5): Found 18 source files
+2025-12-30 00:45:26.952 [info] (18064): FG(Work 5): Found 19 source files
+2025-12-30 00:45:59.758 [info] (18064): FG(Work 5): Found 20 source files
+2025-12-30 00:46:40.221 [info] (18064): FG(Work 5): Found 21 source files
+2025-12-30 00:47:19.530 [info] (18064): FG(Work 5): Found 21 source files
+2025-12-30 00:47:40.437 [info] (18064): FG(Work 5): Found 22 source files
+2025-12-30 00:48:27.736 [info] (18064): FG(Work 5): Found 23 source files
+2025-12-30 00:49:28.086 [info] (18064): FG(Work 5): Found 24 source files
+2025-12-30 00:50:07.758 [info] (18064): FG(Work 5): Found 25 source files
+2025-12-30 00:50:52.229 [info] (18064): FG(Work 5): Found 26 source files

@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/van/Workspace/Courses/Backend/FastApi/venv/bin/python",
+    "prefix": "/home/van/Workspace/Courses/Backend/FastApi/venv",
+    "version": "3.13.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/van/Workspace/Courses/Backend/FastApi/venv/bin/python",
+      "/home/van/Workspace/Courses/Backend/FastApi/venv/bin/python3",
+      "/home/van/Workspace/Courses/Backend/FastApi/venv/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

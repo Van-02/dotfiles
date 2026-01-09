@@ -1,0 +1,11 @@
+{
+"Function": {
+	"prefix": "def",
+	"body": [
+		"def ${1:name}(${2:params}):",
+			"\tpass",
+		
+	],
+	"description": "Create a model of a function"
+	}
+}

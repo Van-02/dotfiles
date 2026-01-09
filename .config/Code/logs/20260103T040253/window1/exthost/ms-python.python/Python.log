@@ -1,0 +1,11 @@
+2026-01-03 04:03:45.398 [info] Native locator: Refresh started
+2026-01-03 04:03:45.417 [info] Native locator: Refresh started
+2026-01-03 04:03:45.434 [info] > conda info --json
+2026-01-03 04:03:45.541 [info] > pyenv which python
+2026-01-03 04:03:45.541 [info] cwd: ~/Workspace/Exercises/Work 5
+2026-01-03 04:03:45.568 [info] Python interpreter path: /bin/python
+2026-01-03 04:03:45.614 [info] Native locator: Refresh finished in 416 ms
+2026-01-03 04:03:47.048 [info] Starting Pylance language server.
+2026-01-03 04:06:08.314 [info] CreateEnv Trigger - Skipping for /home/van/Workspace/Exercises/Work 5/06/06.py
+2026-01-03 04:21:37.869 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/07/07.py"
+2026-01-03 04:32:56.603 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 5/08/08.py"

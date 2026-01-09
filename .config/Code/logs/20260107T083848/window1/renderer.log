@@ -1,0 +1,7 @@
+2026-01-07 08:38:48.719 [info] Started local extension host with pid 26357.
+2026-01-07 08:38:49.052 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-01-07 08:38:49.273 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-07 08:38:49.382 [info] Settings Sync: Account status changed from uninitialized to available
+2026-01-07 08:38:50.416 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-07 08:38:51.318 [info] [perf] Render performance baseline is 19ms
+2026-01-07 08:38:52.339 [info] Auto updating outdated extensions. github.copilot-chat

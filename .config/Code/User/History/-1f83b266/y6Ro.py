@@ -1,0 +1,10 @@
+"""
+Pida 10 nombres de peliculas al usuario. Guardelos en una lista. Luego pida 
+al usuario que ingrese un numero n del 1 al 10. Controle que n este en el rango 
+correcto, es decir entre 1 y 10. Muestre en pantalla cual es la pelicula n-esima.
+Por ejemplo, si el usuario me ingresa 1, debo mostrar la primer pelicula de la 
+lista.
+"""
+
+for i in range(10):
+    print(i)

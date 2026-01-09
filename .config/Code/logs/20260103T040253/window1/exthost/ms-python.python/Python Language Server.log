@@ -1,0 +1,37 @@
+2026-01-03 04:03:46.123 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.1)
+2026-01-03 04:03:46.535 [info] (8789): Server root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2026-01-03 04:03:46.536 [info] (8789): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2026-01-03 04:03:46.539 [info] (8789): Starting service instance "Work 5" for workspace "/home/van/Workspace/Exercises/Work 5"
+2026-01-03 04:03:47.035 [info] (8789): Loading background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/van/Workspace/Exercises/Work%205...
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): Setting environmentName for service "Work 5": "3.13.7 (global)"
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): Setting pythonPath for service "Work 5": "/bin/python"
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): No include entries specified; assuming /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): Auto-excluding **/node_modules
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): Auto-excluding **/__pycache__
+2026-01-03 04:03:47.099 [info] (8789): FG(Work 5): Auto-excluding **/.*
+2026-01-03 04:03:47.117 [info] (8789): FG(Work 5): Assuming Python version 3.13.11.final.0
+2026-01-03 04:03:47.176 [info] (8789): Settings have not changed. Skipping update.
+2026-01-03 04:03:47.267 [info] (8789): Starting Mcp server id:5526 ...
+2026-01-03 04:03:47.504 [info] (8789): PQ(Work 5): Priority queue background worker(2) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2026-01-03 04:03:47.505 [info] (8789): PQ(Work 5): Priority queue background worker(2) started
+2026-01-03 04:03:47.510 [info] (8789): FG(Work 5): Found 26 source files
+2026-01-03 04:03:47.638 [info] (8789): IDX(Work 5): Indexer background runner(3) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2026-01-03 04:03:47.638 [info] (8789): IDX(Work 5): Indexing(3) started
+2026-01-03 04:03:47.702 [info] (8789): BG(Work 5): Loaded external background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2026-01-03 04:03:47.910 [info] (8789): IDX(Work 5): scanned(3) 75 files over 1 exec env
+2026-01-03 04:03:47.998 [info] (8789): IDX(Work 5): indexed(3) 75 files over 1 exec env
+2026-01-03 04:03:48.006 [info] (8789): IDX(Work 5): Indexing finished(3).
+2026-01-03 04:03:54.801 [info] (8789): Starting service instance "<default>" for workspace ""
+2026-01-03 04:03:54.801 [info] (8789): Loading background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into ...
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): Setting environmentName for service "<default>": "3.13.7 (global)"
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): Setting pythonPath for service "<default>": "/bin/python"
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): Auto-excluding **/node_modules
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): Auto-excluding **/__pycache__
+2026-01-03 04:03:54.873 [info] (8789): FG(<default>): Auto-excluding **/.*
+2026-01-03 04:03:54.896 [info] (8789): FG(<default>): Assuming Python version 3.13.11.final.0
+2026-01-03 04:03:54.929 [error] (8789): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-01-03 04:03:54.929 [info] (8789): FG(<default>): No source files found.
+2026-01-03 04:03:55.274 [info] (8789): PQ(<default>): Priority queue background worker(5) root directory: file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2026-01-03 04:03:55.275 [info] (8789): PQ(<default>): Priority queue background worker(5) started
+2026-01-03 04:03:55.450 [info] (8789): BG(<default>): Loaded external background bundle file:///home/van/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 

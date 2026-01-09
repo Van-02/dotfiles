@@ -1,0 +1,12 @@
+2025-12-30 00:07:04.216 [info] Native locator: Refresh started
+2025-12-30 00:07:04.232 [info] Native locator: Refresh started
+2025-12-30 00:07:04.232 [info] Native locator: Refresh started
+2025-12-30 00:07:04.251 [info] > conda info --json
+2025-12-30 00:07:04.356 [info] > pyenv which python
+2025-12-30 00:07:04.356 [info] cwd: ~/Workspace/Exercises/Work 5
+2025-12-30 00:07:04.366 [info] > python -c "import sys;print(sys.executable)"
+2025-12-30 00:07:04.386 [info] Native locator: Refresh finished in 360 ms
+2025-12-30 00:07:04.389 [info] > pyenv which python
+2025-12-30 00:07:04.389 [info] cwd: ~/Workspace/Exercises/Work 5
+2025-12-30 00:07:04.401 [info] Python interpreter path: /bin/python
+2025-12-30 00:07:05.873 [info] Starting Pylance language server.

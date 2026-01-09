@@ -1,0 +1,6 @@
+2026-01-06 09:37:08.333 [info] Started local extension host with pid 93266.
+2026-01-06 09:37:08.621 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2026-01-06 09:37:08.817 [info] MCP Registry configured: https://api.mcp.github.com
+2026-01-06 09:37:09.009 [info] Settings Sync: Account status changed from uninitialized to available
+2026-01-06 09:37:09.991 [error] Failed to fetch MCP registry providers Server returned 404
+2026-01-06 09:37:10.926 [info] [perf] Render performance baseline is 13ms

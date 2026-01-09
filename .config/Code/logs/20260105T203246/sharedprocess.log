@@ -1,0 +1,14 @@
+2026-01-05 20:32:51.876 [info] Getting Manifest... rangav.vscode-thunder-client
+2026-01-05 20:32:51.881 [info] Getting Manifest... rust-lang.rust-analyzer
+2026-01-05 20:32:52.152 [info] Installing extension: rangav.vscode-thunder-client {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/van/.vscode/extensions/extensions.json","path":"/home/van/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-05 20:32:52.164 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/van/.vscode/extensions/extensions.json","path":"/home/van/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-05 20:32:53.302 [info] Extension signature verification result for rangav.vscode-thunder-client: Success. Internal Code: 0. Executed: true. Duration: 488ms.
+2026-01-05 20:32:53.362 [info] Extracted extension to file:///home/van/.vscode/extensions/rangav.vscode-thunder-client-2.38.6: rangav.vscode-thunder-client
+2026-01-05 20:32:53.366 [info] Renamed to /home/van/.vscode/extensions/rangav.vscode-thunder-client-2.38.6
+2026-01-05 20:32:53.382 [info] Marked extension as removed rangav.vscode-thunder-client-2.38.5
+2026-01-05 20:32:53.391 [info] Extension installed successfully: rangav.vscode-thunder-client vscode-userdata:/home/van/.vscode/extensions/extensions.json
+2026-01-05 20:32:53.479 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Internal Code: 0. Executed: true. Duration: 454ms.
+2026-01-05 20:32:53.700 [info] Extracted extension to file:///home/van/.vscode/extensions/rust-lang.rust-analyzer-0.3.2743-linux-x64: rust-lang.rust-analyzer
+2026-01-05 20:32:53.704 [info] Renamed to /home/van/.vscode/extensions/rust-lang.rust-analyzer-0.3.2743-linux-x64
+2026-01-05 20:32:53.718 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2735-linux-x64
+2026-01-05 20:32:53.735 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/van/.vscode/extensions/extensions.json

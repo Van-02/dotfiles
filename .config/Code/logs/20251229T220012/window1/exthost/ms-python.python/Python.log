@@ -1,0 +1,11 @@
+2025-12-29 22:00:14.699 [info] Native locator: Refresh started
+2025-12-29 22:00:14.763 [info] Native locator: Refresh started
+2025-12-29 22:00:14.781 [info] > conda info --json
+2025-12-29 22:00:14.875 [info] > pyenv which python
+2025-12-29 22:00:14.875 [info] cwd: ~/Workspace/Exercises/Work 4
+2025-12-29 22:00:14.994 [info] Native locator: Refresh finished in 569 ms
+2025-12-29 22:00:14.995 [info] Python interpreter path: /bin/python
+2025-12-29 22:00:16.541 [info] Starting Pylance language server.
+2025-12-29 22:08:55.328 [info] CreateEnv Trigger - Skipping for /home/van/Workspace/Exercises/Work 4/14.py
+2025-12-29 22:39:13.720 [error] Unable to find workspace for given file
+2025-12-29 22:41:16.024 [info] Send text to terminal: /bin/python "/home/van/Workspace/Exercises/Work 4/15.py"

@@ -1,0 +1,490 @@
+12/21/2025, 8:54:36 AM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 8:54:36 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/21/2025, 8:54:36 AM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 8:54:36 AM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 8:54:36 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 8:54:43 AM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 8:54:43 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 8:54:46 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 8:54:47 AM GMT-3 8: window.close win1
+12/21/2025, 8:54:47 AM GMT-3 9: webContents.destroyed web1
+12/21/2025, 8:54:47 AM GMT-3 10: window.closed win1
+12/21/2025, 8:55:21 AM GMT-3 11: window.close win2
+12/21/2025, 8:57:26 AM GMT-3 12: before-quit
+12/21/2025, 8:57:26 AM GMT-3 13: window.close win2
+12/21/2025, 8:57:26 AM GMT-3 14: webContents.destroyed web2
+12/21/2025, 8:59:15 AM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 8:59:15 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/21/2025, 8:59:15 AM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 8:59:15 AM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 8:59:15 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 8:59:16 AM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 8:59:16 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 8:59:17 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 8:59:17 AM GMT-3 8: window.close win1
+12/21/2025, 8:59:17 AM GMT-3 9: webContents.destroyed web1
+12/21/2025, 8:59:17 AM GMT-3 10: window.closed win1
+12/21/2025, 9:02:19 AM GMT-3 11: before-quit
+12/21/2025, 9:02:19 AM GMT-3 12: window.close win2
+12/21/2025, 9:02:19 AM GMT-3 13: webContents.destroyed web2
+12/21/2025, 9:02:19 AM GMT-3 14: window.closed win2
+12/21/2025, 1:13:45 PM GMT-3 0: 
+
+----------------------------------------------
+12/21/2025, 1:13:45 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/21/2025, 1:13:45 PM GMT-3 2: ✅ webContents.created web1 ""
+12/21/2025, 1:13:45 PM GMT-3 3: ✅ window.created win1 "discord"
+12/21/2025, 1:13:45 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/21/2025, 1:14:08 PM GMT-3 5: ✅ webContents.created web2 ""
+12/21/2025, 1:14:08 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/21/2025, 1:14:10 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/21/2025, 1:14:11 PM GMT-3 8: window.close win1
+12/21/2025, 1:14:11 PM GMT-3 9: webContents.destroyed web1
+12/21/2025, 1:14:11 PM GMT-3 10: window.closed win1
+12/21/2025, 1:43:23 PM GMT-3 11: window.close win2
+12/21/2025, 7:57:46 PM GMT-3 12: window.close win2
+12/21/2025, 7:57:51 PM GMT-3 13: before-quit
+12/22/2025, 12:18:40 PM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 12:18:40 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/22/2025, 12:18:40 PM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 12:18:40 PM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 12:18:41 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 12:18:41 PM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 12:18:41 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 12:18:42 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 12:18:43 PM GMT-3 8: window.close win1
+12/22/2025, 12:18:43 PM GMT-3 9: webContents.destroyed web1
+12/22/2025, 12:18:43 PM GMT-3 10: window.closed win1
+12/22/2025, 1:28:06 PM GMT-3 11: ✅ webContents.created web3 ""
+12/22/2025, 1:28:06 PM GMT-3 12: ✅ window.created win3 "Discord Popout"
+12/22/2025, 1:28:06 PM GMT-3 13: ✅ webContents.did-finish-load web3
+12/22/2025, 1:36:24 PM GMT-3 14: before-quit
+12/22/2025, 1:36:24 PM GMT-3 15: window.close win2
+12/22/2025, 1:36:24 PM GMT-3 16: window.close win3
+12/22/2025, 1:36:24 PM GMT-3 17: window.close win3
+12/22/2025, 1:36:24 PM GMT-3 18: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 1:36:24 PM GMT-3 19: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 1:36:24 PM GMT-3 20: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 1:36:24 PM GMT-3 21: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 1:37:06 PM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 1:37:06 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/22/2025, 1:37:06 PM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 1:37:06 PM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 1:37:06 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 1:37:06 PM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 1:37:06 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 1:37:08 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 1:37:08 PM GMT-3 8: window.close win1
+12/22/2025, 1:37:08 PM GMT-3 9: webContents.destroyed web1
+12/22/2025, 1:37:08 PM GMT-3 10: window.closed win1
+12/22/2025, 1:37:23 PM GMT-3 11: ✅ webContents.created web3 ""
+12/22/2025, 1:37:23 PM GMT-3 12: ✅ window.created win3 "Discord Popout"
+12/22/2025, 1:37:23 PM GMT-3 13: ✅ webContents.did-finish-load web3
+12/22/2025, 3:13:32 PM GMT-3 14: window.close win3
+12/22/2025, 3:13:32 PM GMT-3 15: window.close win3
+12/22/2025, 3:13:32 PM GMT-3 16: window.close win3
+12/22/2025, 3:13:32 PM GMT-3 17: webContents.destroyed web3
+12/22/2025, 3:13:32 PM GMT-3 18: window.closed win3
+12/22/2025, 4:05:29 PM GMT-3 19: window.close win2
+12/22/2025, 4:05:31 PM GMT-3 20: before-quit
+12/22/2025, 4:05:31 PM GMT-3 21: window.close win2
+12/22/2025, 4:05:31 PM GMT-3 22: webContents.destroyed web2
+12/22/2025, 4:05:37 PM GMT-3 0: 
+
+----------------------------------------------
+12/22/2025, 4:05:37 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/22/2025, 4:05:37 PM GMT-3 2: ✅ webContents.created web1 ""
+12/22/2025, 4:05:37 PM GMT-3 3: ✅ window.created win1 "discord"
+12/22/2025, 4:05:37 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/22/2025, 4:05:37 PM GMT-3 5: ✅ webContents.created web2 ""
+12/22/2025, 4:05:37 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/22/2025, 4:05:38 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/22/2025, 4:05:39 PM GMT-3 8: window.close win1
+12/22/2025, 4:05:39 PM GMT-3 9: webContents.destroyed web1
+12/22/2025, 4:05:39 PM GMT-3 10: window.closed win1
+12/22/2025, 4:10:10 PM GMT-3 11: ✅ webContents.created web3 ""
+12/22/2025, 4:10:10 PM GMT-3 12: ✅ window.created win3 "Discord Popout"
+12/22/2025, 4:10:11 PM GMT-3 13: ✅ webContents.did-finish-load web3
+12/22/2025, 5:20:47 PM GMT-3 14: before-quit
+12/22/2025, 5:20:47 PM GMT-3 15: window.close win2
+12/22/2025, 5:20:47 PM GMT-3 16: window.close win3
+12/22/2025, 5:20:47 PM GMT-3 17: window.close win3
+12/22/2025, 5:20:47 PM GMT-3 18: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/22/2025, 5:20:47 PM GMT-3 19: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/22/2025, 5:20:47 PM GMT-3 20: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/22/2025, 5:20:47 PM GMT-3 21: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/23/2025, 2:45:08 PM GMT-3 0: 
+
+----------------------------------------------
+12/23/2025, 2:45:08 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/23/2025, 2:45:08 PM GMT-3 2: ✅ webContents.created web1 ""
+12/23/2025, 2:45:08 PM GMT-3 3: ✅ window.created win1 "discord"
+12/23/2025, 2:45:08 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/23/2025, 2:45:09 PM GMT-3 5: ✅ webContents.created web2 ""
+12/23/2025, 2:45:09 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/23/2025, 2:45:10 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/23/2025, 2:45:10 PM GMT-3 8: window.close win1
+12/23/2025, 2:45:10 PM GMT-3 9: webContents.destroyed web1
+12/23/2025, 2:45:10 PM GMT-3 10: window.closed win1
+12/23/2025, 2:45:22 PM GMT-3 11: window.close win2
+12/23/2025, 6:31:13 PM GMT-3 12: window.close win2
+12/26/2025, 11:59:42 AM GMT-3 0: 
+
+----------------------------------------------
+12/26/2025, 11:59:42 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/26/2025, 11:59:42 AM GMT-3 2: ✅ webContents.created web1 ""
+12/26/2025, 11:59:42 AM GMT-3 3: ✅ window.created win1 "discord"
+12/26/2025, 11:59:42 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/26/2025, 11:59:43 AM GMT-3 5: ✅ webContents.created web2 ""
+12/26/2025, 11:59:43 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/26/2025, 11:59:44 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/26/2025, 11:59:45 AM GMT-3 8: window.close win1
+12/26/2025, 11:59:45 AM GMT-3 9: webContents.destroyed web1
+12/26/2025, 11:59:45 AM GMT-3 10: window.closed win1
+12/26/2025, 2:19:43 PM GMT-3 0: 
+
+----------------------------------------------
+12/26/2025, 2:19:43 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/26/2025, 2:19:43 PM GMT-3 2: ✅ webContents.created web1 ""
+12/26/2025, 2:19:43 PM GMT-3 3: ✅ window.created win1 "discord"
+12/26/2025, 2:19:43 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/26/2025, 2:19:44 PM GMT-3 5: ✅ webContents.created web2 ""
+12/26/2025, 2:19:44 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/26/2025, 2:19:45 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/26/2025, 2:19:46 PM GMT-3 8: window.close win1
+12/26/2025, 2:19:46 PM GMT-3 9: webContents.destroyed web1
+12/26/2025, 2:19:46 PM GMT-3 10: window.closed win1
+12/26/2025, 4:24:44 PM GMT-3 11: ✅ webContents.created web3 ""
+12/26/2025, 4:24:44 PM GMT-3 12: ✅ window.created win3 "Discord Popout"
+12/26/2025, 4:24:44 PM GMT-3 13: ✅ webContents.did-finish-load web3
+12/26/2025, 4:32:22 PM GMT-3 14: window.close win3
+12/26/2025, 4:32:22 PM GMT-3 15: window.close win3
+12/26/2025, 4:32:22 PM GMT-3 16: webContents.destroyed web3
+12/26/2025, 4:32:22 PM GMT-3 17: window.closed win3
+12/26/2025, 9:36:39 PM GMT-3 0: 
+
+----------------------------------------------
+12/26/2025, 9:36:39 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/26/2025, 9:36:39 PM GMT-3 2: ✅ webContents.created web1 ""
+12/26/2025, 9:36:39 PM GMT-3 3: ✅ window.created win1 "discord"
+12/26/2025, 9:36:39 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/26/2025, 9:36:40 PM GMT-3 5: ✅ webContents.created web2 ""
+12/26/2025, 9:36:40 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/26/2025, 9:36:41 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/26/2025, 9:36:42 PM GMT-3 8: window.close win1
+12/26/2025, 9:36:42 PM GMT-3 9: webContents.destroyed web1
+12/26/2025, 9:36:42 PM GMT-3 10: window.closed win1
+12/27/2025, 1:07:18 AM GMT-3 0: 
+
+----------------------------------------------
+12/27/2025, 1:07:18 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/27/2025, 4:17:57 PM GMT-3 0: 
+
+----------------------------------------------
+12/27/2025, 4:17:57 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/27/2025, 4:17:57 PM GMT-3 2: ✅ webContents.created web1 ""
+12/27/2025, 4:17:57 PM GMT-3 3: ✅ window.created win1 "discord"
+12/27/2025, 4:17:57 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/27/2025, 4:17:57 PM GMT-3 5: ✅ webContents.created web2 ""
+12/27/2025, 4:17:57 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/27/2025, 4:17:59 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/27/2025, 4:17:59 PM GMT-3 8: window.close win1
+12/27/2025, 4:17:59 PM GMT-3 9: webContents.destroyed web1
+12/27/2025, 4:17:59 PM GMT-3 10: window.closed win1
+12/27/2025, 5:09:15 PM GMT-3 11: window.close win2
+12/27/2025, 5:09:16 PM GMT-3 12: before-quit
+12/27/2025, 5:09:16 PM GMT-3 13: window.close win2
+12/27/2025, 5:09:16 PM GMT-3 14: webContents.destroyed web2
+12/27/2025, 5:09:16 PM GMT-3 15: window.closed win2
+12/27/2025, 5:39:51 PM GMT-3 0: 
+
+----------------------------------------------
+12/27/2025, 5:39:51 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/27/2025, 5:39:51 PM GMT-3 2: ✅ webContents.created web1 ""
+12/27/2025, 5:39:51 PM GMT-3 3: ✅ window.created win1 "discord"
+12/27/2025, 5:39:51 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/27/2025, 5:39:51 PM GMT-3 5: ✅ webContents.created web2 ""
+12/27/2025, 5:39:51 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/27/2025, 5:39:52 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/27/2025, 5:39:53 PM GMT-3 8: window.close win1
+12/27/2025, 5:39:53 PM GMT-3 9: webContents.destroyed web1
+12/27/2025, 5:39:53 PM GMT-3 10: window.closed win1
+12/27/2025, 8:25:37 PM GMT-3 11: window.close win2
+12/27/2025, 8:25:49 PM GMT-3 12: before-quit
+12/28/2025, 1:56:54 PM GMT-3 0: 
+
+----------------------------------------------
+12/28/2025, 1:56:54 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/28/2025, 1:56:54 PM GMT-3 2: ✅ webContents.created web1 ""
+12/28/2025, 1:56:54 PM GMT-3 3: ✅ window.created win1 "discord"
+12/28/2025, 1:56:54 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/28/2025, 1:56:55 PM GMT-3 5: ✅ webContents.created web2 ""
+12/28/2025, 1:56:55 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/28/2025, 1:56:56 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/28/2025, 1:56:56 PM GMT-3 8: window.close win1
+12/28/2025, 1:56:56 PM GMT-3 9: webContents.destroyed web1
+12/28/2025, 1:56:56 PM GMT-3 10: window.closed win1
+12/28/2025, 4:23:23 PM GMT-3 11: before-quit
+12/28/2025, 4:23:23 PM GMT-3 12: window.close win2
+12/28/2025, 7:33:03 PM GMT-3 0: 
+
+----------------------------------------------
+12/28/2025, 7:33:03 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/28/2025, 7:33:03 PM GMT-3 2: ✅ webContents.created web1 ""
+12/28/2025, 7:33:03 PM GMT-3 3: ✅ window.created win1 "discord"
+12/28/2025, 7:33:03 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/28/2025, 7:33:03 PM GMT-3 5: ✅ webContents.created web2 ""
+12/28/2025, 7:33:03 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/28/2025, 7:33:04 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/28/2025, 7:33:05 PM GMT-3 8: window.close win1
+12/28/2025, 7:33:05 PM GMT-3 9: webContents.destroyed web1
+12/28/2025, 7:33:05 PM GMT-3 10: window.closed win1
+12/28/2025, 7:46:48 PM GMT-3 11: window.close win2
+12/28/2025, 7:46:53 PM GMT-3 12: before-quit
+12/28/2025, 7:46:53 PM GMT-3 13: window.close win2
+12/28/2025, 7:46:53 PM GMT-3 14: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+12/28/2025, 7:46:53 PM GMT-3 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+12/28/2025, 7:46:53 PM GMT-3 16: ❌ render-process-gone { reason: 'killed', exitCode: 15 }
+12/28/2025, 10:16:21 PM GMT-3 0: 
+
+----------------------------------------------
+12/28/2025, 10:16:21 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/28/2025, 10:16:21 PM GMT-3 2: ✅ webContents.created web1 ""
+12/28/2025, 10:16:21 PM GMT-3 3: ✅ window.created win1 "discord"
+12/28/2025, 10:16:21 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/28/2025, 10:16:22 PM GMT-3 5: ✅ webContents.created web2 ""
+12/28/2025, 10:16:22 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/28/2025, 10:16:23 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/28/2025, 10:16:24 PM GMT-3 8: window.close win1
+12/28/2025, 10:16:24 PM GMT-3 9: webContents.destroyed web1
+12/28/2025, 10:16:24 PM GMT-3 10: window.closed win1
+12/28/2025, 10:41:49 PM GMT-3 11: ✅ webContents.created web3 ""
+12/28/2025, 10:41:49 PM GMT-3 12: ✅ window.created win3 "Discord Popout"
+12/28/2025, 10:41:49 PM GMT-3 13: ✅ webContents.did-finish-load web3
+12/28/2025, 11:19:35 PM GMT-3 14: window.close win3
+12/28/2025, 11:19:35 PM GMT-3 15: window.close win3
+12/28/2025, 11:19:35 PM GMT-3 16: webContents.destroyed web3
+12/28/2025, 11:19:35 PM GMT-3 17: window.closed win3
+12/29/2025, 8:00:13 PM GMT-3 0: 
+
+----------------------------------------------
+12/29/2025, 8:00:13 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/29/2025, 8:00:13 PM GMT-3 2: ✅ webContents.created web1 ""
+12/29/2025, 8:00:13 PM GMT-3 3: ✅ window.created win1 "discord"
+12/29/2025, 8:00:14 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/29/2025, 8:00:14 PM GMT-3 5: ✅ webContents.created web2 ""
+12/29/2025, 8:00:14 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/29/2025, 8:00:15 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/29/2025, 8:00:16 PM GMT-3 8: window.close win1
+12/29/2025, 8:00:16 PM GMT-3 9: webContents.destroyed web1
+12/29/2025, 8:00:16 PM GMT-3 10: window.closed win1
+12/29/2025, 9:07:30 PM GMT-3 0: 
+
+----------------------------------------------
+12/29/2025, 9:07:30 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/29/2025, 9:07:30 PM GMT-3 2: ✅ webContents.created web1 ""
+12/29/2025, 9:07:30 PM GMT-3 3: ✅ window.created win1 "discord"
+12/29/2025, 9:07:31 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/29/2025, 9:07:31 PM GMT-3 5: ✅ webContents.created web2 ""
+12/29/2025, 9:07:31 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/29/2025, 9:07:32 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/29/2025, 9:07:33 PM GMT-3 8: window.close win1
+12/29/2025, 9:07:33 PM GMT-3 9: webContents.destroyed web1
+12/29/2025, 9:07:33 PM GMT-3 10: window.closed win1
+12/30/2025, 12:00:52 AM GMT-3 11: window.close win2
+12/30/2025, 12:00:58 AM GMT-3 12: before-quit
+12/30/2025, 12:00:58 AM GMT-3 13: window.close win2
+12/30/2025, 12:00:58 AM GMT-3 14: webContents.destroyed web2
+12/30/2025, 12:00:58 AM GMT-3 15: window.closed win2
+12/30/2025, 12:23:41 AM GMT-3 0: 
+
+----------------------------------------------
+12/30/2025, 12:23:41 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/30/2025, 12:23:41 AM GMT-3 2: ✅ webContents.created web1 ""
+12/30/2025, 12:23:41 AM GMT-3 3: ✅ window.created win1 "discord"
+12/30/2025, 12:23:41 AM GMT-3 4: ✅ webContents.did-finish-load web1
+12/30/2025, 12:23:41 AM GMT-3 5: ✅ webContents.created web2 ""
+12/30/2025, 12:23:41 AM GMT-3 6: ✅ window.created win2 "Discord"
+12/30/2025, 12:23:42 AM GMT-3 7: ✅ webContents.did-finish-load web2
+12/30/2025, 12:23:43 AM GMT-3 8: window.close win1
+12/30/2025, 12:23:43 AM GMT-3 9: webContents.destroyed web1
+12/30/2025, 12:23:43 AM GMT-3 10: window.closed win1
+12/30/2025, 2:07:37 AM GMT-3 11: window.close win2
+12/30/2025, 2:07:59 AM GMT-3 12: before-quit
+12/30/2025, 11:10:23 PM GMT-3 0: 
+
+----------------------------------------------
+12/30/2025, 11:10:23 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+12/30/2025, 11:10:23 PM GMT-3 2: ✅ webContents.created web1 ""
+12/30/2025, 11:10:23 PM GMT-3 3: ✅ window.created win1 "discord"
+12/30/2025, 11:10:23 PM GMT-3 4: ✅ webContents.did-finish-load web1
+12/30/2025, 11:10:24 PM GMT-3 5: ✅ webContents.created web2 ""
+12/30/2025, 11:10:24 PM GMT-3 6: ✅ window.created win2 "Discord"
+12/30/2025, 11:10:25 PM GMT-3 7: ✅ webContents.did-finish-load web2
+12/30/2025, 11:10:25 PM GMT-3 8: window.close win1
+12/30/2025, 11:10:25 PM GMT-3 9: webContents.destroyed web1
+12/30/2025, 11:10:25 PM GMT-3 10: window.closed win1
+12/30/2025, 11:41:11 PM GMT-3 11: window.close win2
+1/3/2026, 3:01:43 AM GMT-3 0: 
+
+----------------------------------------------
+1/3/2026, 3:01:43 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+1/3/2026, 3:01:43 AM GMT-3 2: ✅ webContents.created web1 ""
+1/3/2026, 3:01:43 AM GMT-3 3: ✅ window.created win1 "discord"
+1/3/2026, 3:01:43 AM GMT-3 4: ✅ webContents.did-finish-load web1
+1/3/2026, 3:01:43 AM GMT-3 5: ✅ webContents.created web2 ""
+1/3/2026, 3:01:43 AM GMT-3 6: ✅ window.created win2 "Discord"
+1/3/2026, 3:01:44 AM GMT-3 7: ✅ webContents.did-finish-load web2
+1/3/2026, 3:01:45 AM GMT-3 8: window.close win1
+1/3/2026, 3:01:45 AM GMT-3 9: webContents.destroyed web1
+1/3/2026, 3:01:45 AM GMT-3 10: window.closed win1
+1/3/2026, 6:14:00 AM GMT-3 11: window.close win2
+1/3/2026, 6:14:02 AM GMT-3 12: before-quit
+1/3/2026, 6:14:02 AM GMT-3 13: window.close win2
+1/3/2026, 6:14:02 AM GMT-3 14: webContents.destroyed web2
+1/3/2026, 6:14:02 AM GMT-3 15: window.closed win2
+1/5/2026, 8:15:22 PM GMT-3 0: 
+
+----------------------------------------------
+1/5/2026, 8:15:22 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+1/5/2026, 8:15:22 PM GMT-3 2: ✅ webContents.created web1 ""
+1/5/2026, 8:15:22 PM GMT-3 3: ✅ window.created win1 "discord"
+1/5/2026, 8:15:22 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/5/2026, 8:15:22 PM GMT-3 5: ✅ webContents.created web2 ""
+1/5/2026, 8:15:22 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/5/2026, 8:15:23 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/5/2026, 8:15:24 PM GMT-3 8: window.close win1
+1/5/2026, 8:15:24 PM GMT-3 9: webContents.destroyed web1
+1/5/2026, 8:15:24 PM GMT-3 10: window.closed win1
+1/5/2026, 9:40:05 PM GMT-3 11: window.close win2
+1/5/2026, 9:40:09 PM GMT-3 12: before-quit
+1/5/2026, 9:40:09 PM GMT-3 13: window.close win2
+1/5/2026, 9:40:09 PM GMT-3 14: webContents.destroyed web2
+1/5/2026, 9:40:09 PM GMT-3 15: window.closed win2
+1/5/2026, 11:59:50 PM GMT-3 0: 
+
+----------------------------------------------
+1/5/2026, 11:59:50 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+1/5/2026, 11:59:50 PM GMT-3 2: ✅ webContents.created web1 ""
+1/5/2026, 11:59:50 PM GMT-3 3: ✅ window.created win1 "discord"
+1/5/2026, 11:59:50 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/5/2026, 11:59:50 PM GMT-3 5: ✅ webContents.created web2 ""
+1/5/2026, 11:59:50 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/5/2026, 11:59:51 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/5/2026, 11:59:52 PM GMT-3 8: window.close win1
+1/5/2026, 11:59:52 PM GMT-3 9: webContents.destroyed web1
+1/5/2026, 11:59:52 PM GMT-3 10: window.closed win1
+1/6/2026, 1:49:38 AM GMT-3 11: before-quit
+1/6/2026, 1:49:38 AM GMT-3 12: window.close win2
+1/6/2026, 1:49:38 AM GMT-3 13: webContents.destroyed web2
+1/6/2026, 1:49:38 AM GMT-3 14: window.closed win2
+1/6/2026, 3:08:15 AM GMT-3 0: 
+
+----------------------------------------------
+1/6/2026, 3:08:16 AM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+1/6/2026, 3:08:16 AM GMT-3 2: ✅ webContents.created web1 ""
+1/6/2026, 3:08:16 AM GMT-3 3: ✅ window.created win1 "discord"
+1/6/2026, 3:08:16 AM GMT-3 4: ✅ webContents.did-finish-load web1
+1/6/2026, 3:08:16 AM GMT-3 5: ✅ webContents.created web2 ""
+1/6/2026, 3:08:16 AM GMT-3 6: ✅ window.created win2 "Discord"
+1/6/2026, 3:08:17 AM GMT-3 7: ✅ webContents.did-finish-load web2
+1/6/2026, 3:08:18 AM GMT-3 8: window.close win1
+1/6/2026, 3:08:18 AM GMT-3 9: webContents.destroyed web1
+1/6/2026, 3:08:18 AM GMT-3 10: window.closed win1
+1/6/2026, 3:08:21 AM GMT-3 11: window.close win2
+1/6/2026, 3:26:27 AM GMT-3 12: window.close win2
+1/6/2026, 8:08:56 AM GMT-3 13: window.close win2
+1/6/2026, 8:29:32 AM GMT-3 14: window.close win2
+1/6/2026, 10:24:17 AM GMT-3 15: window.close win2
+1/6/2026, 12:00:25 PM GMT-3 16: before-quit
+1/6/2026, 12:00:25 PM GMT-3 17: window.close win2
+1/6/2026, 12:00:25 PM GMT-3 18: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+1/6/2026, 12:00:25 PM GMT-3 19: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+1/6/2026, 10:45:40 PM GMT-3 0: 
+
+----------------------------------------------
+1/6/2026, 10:45:40 PM GMT-3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.119"}, modulepath: /home/van/.config/discord/0.0.119/modules
+1/6/2026, 10:45:40 PM GMT-3 2: ✅ webContents.created web1 ""
+1/6/2026, 10:45:40 PM GMT-3 3: ✅ window.created win1 "discord"
+1/6/2026, 10:45:40 PM GMT-3 4: ✅ webContents.did-finish-load web1
+1/6/2026, 10:45:41 PM GMT-3 5: ✅ webContents.created web2 ""
+1/6/2026, 10:45:41 PM GMT-3 6: ✅ window.created win2 "Discord"
+1/6/2026, 10:45:44 PM GMT-3 7: ✅ webContents.did-finish-load web2
+1/6/2026, 10:45:44 PM GMT-3 8: window.close win1
+1/6/2026, 10:45:44 PM GMT-3 9: webContents.destroyed web1
+1/6/2026, 10:45:44 PM GMT-3 10: window.closed win1
+1/7/2026, 12:28:38 AM GMT-3 11: window.close win2
+1/7/2026, 6:23:55 AM GMT-3 12: window.close win2
+1/7/2026, 12:08:10 PM GMT-3 13: before-quit
+1/7/2026, 12:08:10 PM GMT-3 14: window.close win2
+1/7/2026, 12:08:10 PM GMT-3 15: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+1/7/2026, 12:08:10 PM GMT-3 16: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'network.mojom.NetworkService',
+  name: 'Network Service'
+}
+1/7/2026, 12:08:10 PM GMT-3 17: ❌ render-process-gone { reason: 'killed', exitCode: 15 }

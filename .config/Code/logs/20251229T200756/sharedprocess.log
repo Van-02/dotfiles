@@ -1,0 +1,7 @@
+2025-12-29 20:08:02.474 [info] Getting Manifest... rust-lang.rust-analyzer
+2025-12-29 20:08:02.791 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/van/.vscode/extensions/extensions.json","path":"/home/van/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-29 20:08:05.331 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Internal Code: 0. Executed: true. Duration: 913ms.
+2025-12-29 20:08:05.526 [info] Extracted extension to file:///home/van/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64: rust-lang.rust-analyzer
+2025-12-29 20:08:05.530 [info] Renamed to /home/van/.vscode/extensions/rust-lang.rust-analyzer-0.3.2735-linux-x64
+2025-12-29 20:08:05.544 [info] Marked extension as removed rust-lang.rust-analyzer-0.3.2727-linux-x64
+2025-12-29 20:08:05.556 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/van/.vscode/extensions/extensions.json

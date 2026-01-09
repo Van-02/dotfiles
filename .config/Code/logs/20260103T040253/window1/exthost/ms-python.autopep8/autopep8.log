@@ -1,0 +1,261 @@
+2026-01-03 04:03:45.547 [info] Name: autopep8
+2026-01-03 04:03:45.547 [info] Module: autopep8
+2026-01-03 04:03:45.547 [info] Default formatter is set to ms-python.autopep8 for workspace /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:45.547 [info] Python extension loading
+2026-01-03 04:03:45.547 [info] Waiting for interpreter from Python extension.
+2026-01-03 04:03:45.569 [info] No interpreter found from setting autopep8.interpreter
+2026-01-03 04:03:45.569 [info] Getting interpreter from ms-python.python extension for workspace /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:45.569 [info] Python extension loaded
+2026-01-03 04:03:45.572 [info] Interpreter from ms-python.python extension for /home/van/Workspace/Exercises/Work 5: /bin/python
+2026-01-03 04:03:45.572 [info] No interpreter found from setting autopep8.interpreter
+2026-01-03 04:03:45.572 [info] Getting interpreter from ms-python.python extension for workspace /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:45.592 [info] Interpreter from ms-python.python extension for /home/van/Workspace/Exercises/Work 5: /bin/python
+2026-01-03 04:03:45.596 [info] Server run command: /bin/python /home/van/.vscode/extensions/ms-python.autopep8-2025.2.0/bundled/tool/lsp_server.py
+2026-01-03 04:03:45.598 [info] Server: Start requested.
+2026-01-03 04:03:45.994 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:45.994 [info] sys.path used to run Server:
+   /home/van/.vscode/extensions/ms-python.autopep8-2025.2.0/bundled/libs
+   /home/van/.vscode/extensions/ms-python.autopep8-2025.2.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /usr/lib/python3.13/site-packages
+2026-01-03 04:03:45.994 [info] PYTHONPATH env variable used to run Server:
+   /home/van/.vscode/extensions/ms-python.autopep8-2025.2.0/bundled/libs:
+2026-01-03 04:03:45.994 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/van/Workspace/Exercises/Work 5",
+        "workspace": "file:///home/van/Workspace/Exercises/Work%205",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2026-01-03 04:03:45.994 [info] Global settings:
+{
+    "cwd": "/home/van/Workspace/Exercises/Work 5",
+    "workspace": "/home/van/Workspace/Exercises/Work 5",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2026-01-03 04:03:45.995 [info] /bin/python -m autopep8 --version
+2026-01-03 04:03:45.995 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:03:46.032 [info] Version info for formatter running for /home/van/Workspace/Exercises/Work 5:
+autopep8 2.3.2 (pycodestyle: 2.12.1)
+
+2026-01-03 04:03:46.032 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.3.2
+
+2026-01-03 04:03:49.521 [info] [Trace - 04:03:49] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:51.267 [info] [Trace - 04:03:51] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:51.515 [info] [Trace - 04:03:51] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:51.639 [info] [Trace - 04:03:51] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:52.011 [info] [Trace - 04:03:52] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:52.330 [info] [Trace - 04:03:52] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:52.722 [info] [Trace - 04:03:52] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:52.805 [info] [Trace - 04:03:52] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:52.964 [info] [Trace - 04:03:52] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:53.161 [info] [Trace - 04:03:53] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:54.789 [info] [Trace - 04:03:54] Sending notification 'textDocument/didChange'.
+2026-01-03 04:03:56.728 [info] [Trace - 04:03:56] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:02.477 [info] [Trace - 04:04:02] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:02.899 [info] [Trace - 04:04:02] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:03.241 [info] [Trace - 04:04:03] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:03.361 [info] [Trace - 04:04:03] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:04.771 [info] [Trace - 04:04:04] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:05.376 [info] [Trace - 04:04:05] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:05.672 [info] [Trace - 04:04:05] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:10.575 [info] [Trace - 04:04:10] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:10.921 [info] [Trace - 04:04:10] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:11.049 [info] [Trace - 04:04:11] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:11.302 [info] [Trace - 04:04:11] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:11.665 [info] [Trace - 04:04:11] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:11.836 [info] [Trace - 04:04:11] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:12.068 [info] [Trace - 04:04:12] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:12.209 [info] [Trace - 04:04:12] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:12.380 [info] [Trace - 04:04:12] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:13.505 [info] [Trace - 04:04:13] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:14.193 [info] [Trace - 04:04:14] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:14.381 [info] [Trace - 04:04:14] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:15.737 [info] [Trace - 04:04:15] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:16.673 [info] [Trace - 04:04:16] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:16.860 [info] [Trace - 04:04:16] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:17.109 [info] [Trace - 04:04:17] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:19.257 [info] [Trace - 04:04:19] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:19.721 [info] [Trace - 04:04:19] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:20.073 [info] [Trace - 04:04:20] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:20.440 [info] [Trace - 04:04:20] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:24.377 [info] [Trace - 04:04:24] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:26.970 [info] [Trace - 04:04:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:27.578 [info] [Trace - 04:04:27] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:30.602 [info] [Trace - 04:04:30] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:32.148 [info] [Trace - 04:04:32] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:47.817 [info] [Trace - 04:04:47] Sending notification 'textDocument/didChange'.
+2026-01-03 04:04:48.919 [info] [Trace - 04:04:48] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:07.258 [info] [Trace - 04:05:07] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:07.584 [info] [Trace - 04:05:07] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:07.776 [info] [Trace - 04:05:07] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:08.374 [info] [Trace - 04:05:08] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:08.687 [info] [Trace - 04:05:08] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:08.807 [info] [Trace - 04:05:08] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:09.167 [info] [Trace - 04:05:09] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:09.841 [info] [Trace - 04:05:09] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:10.993 [info] [Trace - 04:05:10] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:11.272 [info] [Trace - 04:05:11] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:20.729 [info] [Trace - 04:05:20] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:21.347 [info] [Trace - 04:05:21] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:21.462 [info] [Trace - 04:05:21] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:22.185 [info] [Trace - 04:05:22] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:22.450 [info] [Trace - 04:05:22] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:22.680 [info] [Trace - 04:05:22] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:25.816 [info] [Trace - 04:05:25] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:26.056 [info] [Trace - 04:05:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:26.384 [info] [Trace - 04:05:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:26.576 [info] [Trace - 04:05:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:26.814 [info] [Trace - 04:05:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:26.976 [info] [Trace - 04:05:26] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:27.200 [info] [Trace - 04:05:27] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:27.408 [info] [Trace - 04:05:27] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:27.623 [info] [Trace - 04:05:27] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:27.839 [info] [Trace - 04:05:27] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:33.778 [info] [Trace - 04:05:33] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:34.033 [info] [Trace - 04:05:34] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:34.160 [info] [Trace - 04:05:34] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:34.569 [info] [Trace - 04:05:34] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:35.065 [info] [Trace - 04:05:35] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:35.302 [info] [Trace - 04:05:35] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:35.551 [info] [Trace - 04:05:35] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:36.145 [info] [Trace - 04:05:36] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:36.312 [info] [Trace - 04:05:36] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:36.432 [info] [Trace - 04:05:36] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:36.584 [info] [Trace - 04:05:36] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:40.385 [info] [Trace - 04:05:40] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:40.592 [info] [Trace - 04:05:40] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:40.714 [info] [Trace - 04:05:40] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:40.885 [info] [Trace - 04:05:40] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:41.029 [info] [Trace - 04:05:41] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:41.176 [info] [Trace - 04:05:41] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:41.296 [info] [Trace - 04:05:41] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:42.209 [info] [Trace - 04:05:42] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:43.000 [info] [Trace - 04:05:43] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:44.225 [info] [Trace - 04:05:44] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:44.665 [info] [Trace - 04:05:44] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:44.727 [info] [Trace - 04:05:44] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:44.999 [info] [Trace - 04:05:44] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:45.177 [info] [Trace - 04:05:45] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:47.227 [info] [Trace - 04:05:47] Sending notification 'textDocument/didChange'.
+2026-01-03 04:05:57.305 [info] [Trace - 04:05:57] Sending request 'textDocument/formatting - (1)'.
+2026-01-03 04:05:57.311 [info] [Trace - 04:05:57] Received notification 'window/logMessage'.
+2026-01-03 04:05:57.311 [info] /bin/python -m autopep8 -
+2026-01-03 04:05:57.311 [info] [Trace - 04:05:57] Received notification 'window/logMessage'.
+2026-01-03 04:05:57.311 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:05:57.371 [info] [Trace - 04:05:57] Received response 'textDocument/formatting - (1)' in 66ms.
+2026-01-03 04:05:57.374 [info] [Trace - 04:05:57] Sending notification 'textDocument/didChange'.
+2026-01-03 04:06:43.817 [info] /bin/python -m autopep8 -
+2026-01-03 04:06:43.817 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:08:55.974 [info] /bin/python -m autopep8 -
+2026-01-03 04:08:55.975 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:09:12.807 [info] /bin/python -m autopep8 -
+2026-01-03 04:09:12.808 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:09:24.742 [info] /bin/python -m autopep8 -
+2026-01-03 04:09:24.743 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:11:01.370 [info] /bin/python -m autopep8 -
+2026-01-03 04:11:01.370 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:11:35.583 [info] /bin/python -m autopep8 -
+2026-01-03 04:11:35.583 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:12:16.095 [info] /bin/python -m autopep8 -
+2026-01-03 04:12:16.096 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:13:28.785 [info] /bin/python -m autopep8 -
+2026-01-03 04:13:28.785 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:14:52.656 [info] /bin/python -m autopep8 -
+2026-01-03 04:14:52.656 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:15:14.303 [info] /bin/python -m autopep8 -
+2026-01-03 04:15:14.303 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:15:22.088 [info] /bin/python -m autopep8 -
+2026-01-03 04:15:22.089 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:18:36.881 [info] /bin/python -m autopep8 -
+2026-01-03 04:18:36.881 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:20:12.849 [info] /bin/python -m autopep8 -
+2026-01-03 04:20:12.851 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:20:34.375 [info] /bin/python -m autopep8 -
+2026-01-03 04:20:34.375 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:21:14.868 [info] /bin/python -m autopep8 -
+2026-01-03 04:21:14.868 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:25:43.271 [info] /bin/python -m autopep8 -
+2026-01-03 04:25:43.271 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:25:59.088 [info] /bin/python -m autopep8 -
+2026-01-03 04:25:59.088 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:26:23.037 [info] /bin/python -m autopep8 -
+2026-01-03 04:26:23.038 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:26:36.038 [info] /bin/python -m autopep8 -
+2026-01-03 04:26:36.038 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:27:34.056 [info] /bin/python -m autopep8 -
+2026-01-03 04:27:34.057 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:29:18.686 [info] /bin/python -m autopep8 -
+2026-01-03 04:29:18.686 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:32:54.331 [info] /bin/python -m autopep8 -
+2026-01-03 04:32:54.331 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:33:40.131 [info] /bin/python -m autopep8 -
+2026-01-03 04:33:40.132 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:34:01.862 [info] /bin/python -m autopep8 -
+2026-01-03 04:34:01.862 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:37:03.044 [info] /bin/python -m autopep8 -
+2026-01-03 04:37:03.045 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:37:04.637 [info] /bin/python -m autopep8 -
+2026-01-03 04:37:04.638 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:42:36.687 [info] /bin/python -m autopep8 -
+2026-01-03 04:42:36.687 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:42:48.007 [info] /bin/python -m autopep8 -
+2026-01-03 04:42:48.007 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:44:12.198 [info] /bin/python -m autopep8 -
+2026-01-03 04:44:12.198 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:46:56.682 [info] /bin/python -m autopep8 -
+2026-01-03 04:46:56.682 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:48:18.132 [info] /bin/python -m autopep8 -
+2026-01-03 04:48:18.132 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:49:12.520 [info] /bin/python -m autopep8 -
+2026-01-03 04:49:12.520 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:50:22.865 [info] /bin/python -m autopep8 -
+2026-01-03 04:50:22.865 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:50:49.678 [info] /bin/python -m autopep8 -
+2026-01-03 04:50:49.678 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:50:57.047 [info] /bin/python -m autopep8 -
+2026-01-03 04:50:57.047 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:51:51.630 [info] /bin/python -m autopep8 -
+2026-01-03 04:51:51.630 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:52:58.961 [info] /bin/python -m autopep8 -
+2026-01-03 04:52:58.961 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:53:49.829 [info] /bin/python -m autopep8 -
+2026-01-03 04:53:49.829 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 04:56:02.649 [info] /bin/python -m autopep8 -
+2026-01-03 04:56:02.649 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:08:30.056 [info] /bin/python -m autopep8 -
+2026-01-03 05:08:30.056 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:09:18.711 [info] /bin/python -m autopep8 -
+2026-01-03 05:09:18.711 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:09:38.280 [info] /bin/python -m autopep8 -
+2026-01-03 05:09:38.280 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:13:37.838 [info] /bin/python -m autopep8 -
+2026-01-03 05:13:37.838 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:13:44.832 [info] /bin/python -m autopep8 -
+2026-01-03 05:13:44.832 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:14:45.688 [info] /bin/python -m autopep8 -
+2026-01-03 05:14:45.688 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:18:34.887 [info] /bin/python -m autopep8 -
+2026-01-03 05:18:34.887 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:20:36.000 [info] /bin/python -m autopep8 -
+2026-01-03 05:20:36.000 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:21:33.401 [info] /bin/python -m autopep8 -
+2026-01-03 05:21:33.401 [info] CWD Server: /home/van/Workspace/Exercises/Work 5
+2026-01-03 05:28:13.664 [info] /bin/python -m autopep8 -
+2026-01-03 05:28:13.664 [info] CWD Server: /home/van/Workspace/Exercises/Work 5

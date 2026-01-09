@@ -1,0 +1,39 @@
+2026/01/05-20:15:39.587 2a80 Reusing MANIFEST /home/van/.config/YouTube Music for Desktop/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/05-20:15:39.587 2a80 Recovering log #32
+2026/01/05-20:15:39.588 2a80 Reusing old log /home/van/.config/YouTube Music for Desktop/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000032.log 
+2026/01/05-21:50:58.699 2a7f Level-0 table #37: started
+2026/01/05-21:50:58.705 2a7f Level-0 table #37: 1120478 bytes OK
+2026/01/05-21:50:58.707 2a7f Delete type=0 #32
+2026/01/05-22:01:33.787 2a80 Compacting 1@1 + 1@2 files
+2026/01/05-22:01:33.790 2a80 Generated table #38@1: 873 keys, 47211 bytes
+2026/01/05-22:01:33.790 2a80 Compacted 1@1 + 1@2 files => 47211 bytes
+2026/01/05-22:01:33.791 2a80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/05-22:01:33.791 2a80 Delete type=2 #37
+2026/01/05-22:01:33.791 2a80 Delete type=2 #34
+2026/01/06-02:02:05.927 2a80 Level-0 table #40: started
+2026/01/06-02:02:05.945 2a80 Level-0 table #40: 915355 bytes OK
+2026/01/06-02:02:05.947 2a80 Delete type=0 #36
+2026/01/06-02:12:55.345 2a80 Compacting 1@1 + 1@2 files
+2026/01/06-02:12:55.349 2a80 Generated table #41@1: 1025 keys, 45070 bytes
+2026/01/06-02:12:55.349 2a80 Compacted 1@1 + 1@2 files => 45070 bytes
+2026/01/06-02:12:55.350 2a80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-02:12:55.350 2a80 Delete type=2 #38
+2026/01/06-02:12:55.350 2a80 Delete type=2 #40
+2026/01/06-03:19:09.959 2a80 Level-0 table #43: started
+2026/01/06-03:19:09.965 2a80 Level-0 table #43: 816896 bytes OK
+2026/01/06-03:19:09.966 2a80 Delete type=0 #39
+2026/01/06-04:43:12.379 2a80 Compacting 1@1 + 1@2 files
+2026/01/06-04:43:12.382 2a80 Generated table #44@1: 1145 keys, 47787 bytes
+2026/01/06-04:43:12.382 2a80 Compacted 1@1 + 1@2 files => 47787 bytes
+2026/01/06-04:43:12.383 2a80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-04:43:12.383 2a80 Delete type=2 #43
+2026/01/06-04:43:12.383 2a80 Delete type=2 #41
+2026/01/06-07:00:59.589 2a80 Level-0 table #46: started
+2026/01/06-07:00:59.598 2a80 Level-0 table #46: 845971 bytes OK
+2026/01/06-07:00:59.600 2a80 Delete type=0 #42
+2026/01/06-07:10:54.515 2a80 Compacting 1@1 + 1@2 files
+2026/01/06-07:10:54.518 2a80 Generated table #47@1: 1264 keys, 61701 bytes
+2026/01/06-07:10:54.518 2a80 Compacted 1@1 + 1@2 files => 61701 bytes
+2026/01/06-07:10:54.519 2a80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/06-07:10:54.519 2a80 Delete type=2 #46
+2026/01/06-07:10:54.519 2a80 Delete type=2 #44

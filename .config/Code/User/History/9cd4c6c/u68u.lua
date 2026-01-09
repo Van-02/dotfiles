@@ -1,0 +1,56 @@
+-- Map Ctrl+b in insert mode to delete to the end of the word without leaving insert mode
+vim.keymap.set("i", "<C-b>", "<C-o>de")
+
+-- Map Ctrl+c to escape from other modes
+vim.keymap.set({ "i", "n", "v" }, "<C-c>", [[<C-\><C-n>]])
+
+-- Redefine Ctrl+s to save with the custom function
+vim.api.nvim_set_keymap("n", "<C-s>", ":lua SaveFile()<CR>", { noremap = true, silent = true })
+
+-- Screen Keys
+vim.keymap.set({ "n" }, "<leader>uk", "<cmd>Screenkey<CR>")
+
+-- Delete all buffers but the current one
+vim.keymap.set("n","<leader>bq",'<Esc>:%bdelete|edit #|normal`"<Return>', { desc = "Delete other buffers but the current one" })
+
+-- Disable key mappings in insert mode
+vim.api.nvim_set_keymap("i", "<A-j>", "<Nop>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("i", "<A-k>", "<Nop>", { noremap = true, silent = true })
+
+-- Disable key mappings in normal mode
+vim.api.nvim_set_keymap("n", "<A-j>", "<Nop>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("n", "<A-k>", "<Nop>", { noremap = true, silent = true })
+
+-- Disable key mappings in visual block mode
+vim.api.nvim_set_keymap("x", "<A-j>", "<Nop>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("x", "<A-k>", "<Nop>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("x", "J", "<Nop>", { noremap = true, silent = true })
+vim.api.nvim_set_keymap("x", "K", "<Nop>", { noremap = true, silent = true })
+
+-- Delete all marks
+vim.keymap.set("n", "<leader>md", function()
+  vim.cmd("delmarks!")
+  vim.cmd("delmarks A-Z0-9")
+  vim.notify("All marks deleted")
+end, { desc = "Delete all marks" })
+
+-- Custom save function
+function SaveFile()
+  -- Check if a buffer with a file is open
+  if vim.fn.empty(vim.fn.expand("%:t")) == 1 then
+    vim.notify("No file to save", vim.log.levels.WARN)
+    return
+  end
+
+  local filename = vim.fn.expand("%:t") -- Get only the filename
+  local success, err = pcall(function()
+    vim.cmd("silent! write") -- Try to save the file without showing the default message
+  end)
+
+  if success then
+    vim.notify(filename .. " Saved!") -- Show only the custom message if successful
+  else
+    vim.notify("Error: " .. err, vim.log.levels.ERROR) -- Show the error message if it fails
+  end
+end
+
