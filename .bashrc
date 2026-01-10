@@ -38,31 +38,9 @@ export PS1='\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\W\[\033[33m\]$(__gi
 # Bash Completion
 # Enable bash programmable completion features in interactive shells
 if [ -f /usr/share/bash-completion/bash_completion ]; then
-	. /usr/share/bash-completion/bash_completion
+    . /usr/share/bash-completion/bash_completion
 elif [ -f /etc/bash_completion ]; then
-	. /etc/bash_completion
+    . /etc/bash_completion
 fi
-
-# Funtions
-#----------------------------------------------------
-# Create file
-function crf(){
-  if [ $# -lt 3 ]; then
-    echo "Uso: crf -f -[language format] nombre_archivo"
-
-  elif [[ "$1" = "-f" && "$2" = "-py" ]]; then
-    touch "$3.py"
-    chmod u+x "$3.py"
-    echo "#!/usr/bin/python3" > "$3.py"
-
-  elif [[ "$1" = "-f" && "$2" = "-sh" ]]; then
-    touch "$3.sh"
-    chmod u+x "$3.sh"
-    echo "#!/usr/bin/bash" > "$3.sh"
-  
-  else
-    echo "Uso: crf -f -[language format] nombre_archivo"
-  fi
-}
 
 eval "$(starship init bash)"
