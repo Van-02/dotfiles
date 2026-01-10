@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+!.gitignore
+!alacritty
+!bat
+!gtk-3.0
+!htop
+!neofetch
+!nvim
+!picom
+!qtile
+!ranger
+!rofi
+!starship.toml
