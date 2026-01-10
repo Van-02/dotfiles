@@ -11,6 +11,9 @@ HISTSIZE=1000
 SAVEHIST=1000
 HISTFILE=~/.zsh_history
 
+if [ -z "$TMUX" ]; then
+    tmux attach-session -t default || tmux new-session -s default
+fi
 # Use modern completion system
 autoload -Uz compinit
 compinit
