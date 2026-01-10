@@ -1,6 +1,0 @@
-2026/01/03-04:00:57.853 1d56 Reusing MANIFEST /home/van/.config/YouTube Music for Desktop/Local Storage/leveldb/MANIFEST-000001
-2026/01/03-04:00:57.859 1d56 Recovering log #6
-2026/01/03-04:00:57.860 1d56 Reusing old log /home/van/.config/YouTube Music for Desktop/Local Storage/leveldb/000006.log 
-2026/01/03-05:02:28.400 1d56 Level-0 table #10: started
-2026/01/03-05:02:28.403 1d56 Level-0 table #10: 12783 bytes OK
-2026/01/03-05:02:28.404 1d56 Delete type=0 #6
