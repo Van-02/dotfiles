@@ -37,31 +37,3 @@ white = '#e0def4'
 [colors.hints]
 start = { foreground = '#908caa', background = '#1f1d2e' }
 end = { foreground = '#6e6a86', background = '#1f1d2e' }
-
-[env]
-TERM = "xterm-256color"
-
-[cursor]
-style = { shape = "Beam", blinking = "Never" }
-
-[font]
-size = 12
-
-[font.bold]
-family = "UbuntuMono Nerd Font Mono"
-style = "Bold"
-
-[font.italic]
-family = "UbuntuMono Nerd Font Mono"
-style = "Italic"
-
-[font.normal]
-family = "UbuntuMono Nerd Font Mono"
-style = "Regular"
-
-[window]
-opacity = 0.9
-
-[window.padding]
-x = 12
-y = 12
