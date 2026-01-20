@@ -57,7 +57,21 @@ keys = [
                 "scrot 'screenshot_%Y-%m-%d-%T_$wx$h.png' -e 'mkdir -p ~/Images/screenshots/ | mv $f ~/Images/screenshots/'"
             ),
         ),
-        ([mod, "shift"], "s", lazy.spawn("scrot -s")),
+        (
+            [mod, "shift"],
+            "s",
+            lazy.spawn(
+                "scrot -s -e 'mkdir -p ~/Images/screenshots/ | mv $f ~/Images/screenshots/'"
+            ),
+        ),
+        # Require xclip
+        (
+            [mod, "control", "shift"],
+            "s",
+            lazy.spawn(
+                "scrot -s -f -e 'xclip -selection clipboard -t image/png -i $f && rm $f'"
+            ),
+        ),
         # ------------ Hardware Configs ------------
         # Volume
         (
