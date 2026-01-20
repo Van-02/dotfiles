@@ -11,4 +11,4 @@ udiskie -t &
 # Java Fonts
 xsettingsd &
 # Wallpaper
-feh --bg-scale Images/Wallpapers/45.jpg &
+feh --bg-scale Images/Wallpapers/63.jpg &
