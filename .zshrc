@@ -11,14 +11,11 @@ HISTSIZE=1000
 SAVEHIST=1000
 HISTFILE=~/.zsh_history
 
-if [ -z "$TMUX" ]; then
-    tmux attach-session -t default || tmux new-session -s default
-fi
 # Use modern completion system
 autoload -Uz compinit
 compinit
 
-zstyle ':completion:*' auto-description 'specify: %d'
+zstyle ':completion:*' uto-description 'specify: %d'
 zstyle ':completion:*' completer _expand _complete _correct _approximate
 zstyle ':completion:*' format 'Completing %d'
 zstyle ':completion:*' group-name ''
@@ -69,6 +66,11 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/sudo/sudo.plugin.zsh
 source /usr/share/zsh/plugins/starship/starship.plugin.zsh
+
+eval "$(zoxide init zsh)"
+
+export EDITOR='nvim'
+export VISUAL='nvim'
 
 # Functions
 # -----------------------------------------------------------------------------
