@@ -21,7 +21,9 @@ sigint_symbol = "ﭦ"
 map_symbol = true
 
 [git_branch]
-format = "[$symbol$branch]($style) "
+format = "-> [$symbol$branch]($style) "
+style = "bold fg:mauve"
+symbol = " "
 
 [git_status]
 format = '[$all_status$ahead_behind ]($style)'
@@ -29,7 +31,7 @@ style = "fg:text bg:pink"
 
 [package]
 format = "[$symbol$version]($style) "
-symbol = " "
+symbol = "󰏗 "
 
 [python]
 disabled = false
@@ -39,6 +41,7 @@ version_format = "$raw"
 
 [nodejs]
 format = "[$symbol($version )]($style)"
+symbol = " "
 
 [php]
 format = "[$symbol($version )]($style)"
@@ -50,6 +53,7 @@ symbol = " "
 
 [rust]
 format = "[$symbol($version )]($style)"
+symbol = "󱘗 "
 
 [golang]
 format = "[$symbol($version )]($style)"

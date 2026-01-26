@@ -21,31 +21,3 @@ blue = '#a3c5ff'
 magenta = '#d6afed'
 cyan = '#98fffd'
 white = '#d1e5ed'
-
-[env]
-TERM = "xterm-256color"
-
-[cursor]
-style = { shape = "Beam", blinking = "Never" }
-
-[font]
-size = 12
-
-[font.bold]
-family = "UbuntuMono Nerd Font"
-style = "Bold"
-
-[font.italic]
-family = "UbuntuMono Nerd Font"
-style = "Italic"
-
-[font.normal]
-family = "UbuntuMono Nerd Font"
-style = "Regular"
-
-[window]
-opacity = 0.9
-
-[window.padding]
-x = 12
-y = 12
