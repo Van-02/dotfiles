@@ -50,11 +50,11 @@ alias catn='bat --style=plain'
 alias catnp='bat --style=plain --paging=never'
 
 # ls
-alias ls='exa --group-directories-first'
-alias ll='exa -l --group-directories-first'
-alias la='exa -a --group-directories-first'
-alias l='exa --group-directories-first'
-alias lla='exa -la --group-directories-first'
+alias ls='exa --group-directories-first --icons'
+alias ll='exa -l --group-directories-first --icons'
+alias la='exa -a --group-directories-first --icons'
+alias l='exa --group-directories-first --icons'
+alias lla='exa -la --group-directories-first --icons'
 alias tree='exa -T'
 
 # fzf
