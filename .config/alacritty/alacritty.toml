@@ -1,51 +1,80 @@
-[colors.primary]
-background = '#212121'
-foreground = '#c5c9de'
+# ┌──────────────────────────────────────────────────────────────────────────────┐
+# │                                   FONT                                       │
+# └──────────────────────────────────────────────────────────────────────────────┘
 
-[colors.normal]
-black = '#181a29'
-red = '#F07178'
-green = '#cdea9f'
-yellow = '#ffd47e'
-blue = '#93bbff'
-magenta = '#d3a7ee'
-cyan = '#98e4ff'
-white = '#bfd5de'
+[font]
+size = 13
 
-[colors.bright]
-black = '#282a40'
-red = '#eb7f84'
-green = '#e0ffad'
-yellow = '#ffee7e'
-blue = '#a3c5ff'
-magenta = '#d6afed'
-cyan = '#98fffd'
-white = '#d1e5ed'
+[font.bold]
+family = "Mononoki Nerd Font Mono"
+style = "Bold"
 
-[env]
-TERM = "xterm-256color"
+[font.italic]
+family = "Mononoki Nerd Font Mono"
+style = "Italic"
+
+[font.normal]
+family = "Mononoki Nerd Font Mono"
+style = "Regular"
+
+# ┌──────────────────────────────────────────────────────────────────────────────┐
+# │                                  WINDOW                                      │
+# └──────────────────────────────────────────────────────────────────────────────┘
+
+[window]
+opacity = 0.95
+blur = true
+option_as_alt = "Both"
+
+[window.padding]
+x = 10
+y = 10
+
+# ┌──────────────────────────────────────────────────────────────────────────────┐
+# │                                  CURSOR                                      │
+# └──────────────────────────────────────────────────────────────────────────────┘
 
 [cursor]
 style = { shape = "Beam", blinking = "Never" }
 
-[font]
-size = 12
+# ┌──────────────────────────────────────────────────────────────────────────────┐
+# │                                 TERMINAL                                     │
+# └──────────────────────────────────────────────────────────────────────────────┘
 
-[font.bold]
-family = "UbuntuMono Nerd Font"
-style = "Bold"
+[terminal]
+# For best Neovim compatibility, install alacritty terminfo:
+# sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
 
-[font.italic]
-family = "UbuntuMono Nerd Font"
-style = "Italic"
+[env]
+TERM = "xterm-256color"
 
-[font.normal]
-family = "UbuntuMono Nerd Font"
-style = "Regular"
+[hints]
+enabled = []
 
-[window]
-opacity = 0.9
+# ┌──────────────────────────────────────────────────────────────────────────────┐
+# │                                  THEME                                       │
+# └──────────────────────────────────────────────────────────────────────────────┘
 
-[window.padding]
-x = 12
-y = 12
+[colors.primary]
+background = '#171714'
+foreground = '#f8f8f2'
+
+[colors.normal]
+black = '#272822'
+red = '#f92672'
+green = '#a6e22e'
+yellow = '#f4bf75'
+blue = '#66d9ef'
+magenta = '#ae81ff'
+cyan = '#a1efe4'
+white = '#f8f8f2'
+
+[colors.bright]
+black = '#75715e'
+red = '#f92672'
+green = '#a6e22e'
+yellow = '#f4bf75'
+blue = '#66d9ef'
+magenta = '#ae81ff'
+cyan = '#a1efe4'
+white = '#f9f8f5'
