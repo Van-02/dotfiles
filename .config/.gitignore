@@ -5,11 +5,11 @@
 !bat
 !gtk-3.0
 !htop
-!neofetch
 !nvim
+!pcmanfm
 !picom
 !qtile
 !ranger
 !rofi
-!starship.toml
 !tmux
+!starship.toml
