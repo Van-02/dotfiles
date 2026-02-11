@@ -24,7 +24,6 @@ style = "Regular"
 [window]
 opacity = 0.95
 blur = true
-option_as_alt = "Both"
 
 [window.padding]
 x = 10
@@ -56,25 +55,35 @@ enabled = []
 # └──────────────────────────────────────────────────────────────────────────────┘
 
 [colors.primary]
-background = '#171714'
-foreground = '#f8f8f2'
+background = "#06080f"
+foreground = "#f3f6f9"
 
+[colors.cursor]
+cursor = "#e0c15a"
+text = "#06080f"
+
+[colors.selection]
+background = "#263356"
+text = "#f3f6f9"
+
+# --- Normal Colors ---
 [colors.normal]
-black = '#272822'
-red = '#f92672'
-green = '#a6e22e'
-yellow = '#f4bf75'
-blue = '#66d9ef'
-magenta = '#ae81ff'
-cyan = '#a1efe4'
-white = '#f8f8f2'
+black = "#06080f"
+red = "#cb7c94"
+green = "#b7cc85"
+yellow = "#ffe066"
+blue = "#7fb4ca"
+magenta = "#ff8dd7"
+cyan = "#7aa89f"
+white = "#f3f6f9"
 
+# --- Bright Colors ---
 [colors.bright]
-black = '#75715e'
-red = '#f92672'
-green = '#a6e22e'
-yellow = '#f4bf75'
-blue = '#66d9ef'
-magenta = '#ae81ff'
-cyan = '#a1efe4'
-white = '#f9f8f5'
+black = "#8a8fa3"
+red = "#de8fa8"
+green = "#d1e8a9"
+yellow = "#fff7b1"
+blue = "#a3d4d5"
+magenta = "#ffaeea"
+cyan = "#7fb4ca"
+white = "#f3f6f9"
