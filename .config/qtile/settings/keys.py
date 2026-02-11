@@ -3,7 +3,6 @@
 from libqtile.config import Key
 from libqtile.lazy import lazy
 
-
 mod = "mod4"
 
 keys = [
@@ -58,7 +57,7 @@ keys = [
             ),
         ),
         (
-            [mod, "shift"],
+            [mod, "control", "shift"],
             "s",
             lazy.spawn(
                 "scrot -s -e 'mkdir -p ~/Images/screenshots/ | mv $f ~/Images/screenshots/'"
@@ -66,7 +65,7 @@ keys = [
         ),
         # Require xclip
         (
-            [mod, "control", "shift"],
+            [mod, "shift"],
             "s",
             lazy.spawn(
                 "scrot -s -f -e 'xclip -selection clipboard -t image/png -i $f && rm $f'"
