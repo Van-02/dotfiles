@@ -22,8 +22,7 @@ style = "Regular"
 # └──────────────────────────────────────────────────────────────────────────────┘
 
 [window]
-opacity = 0.95
-blur = true
+opacity = 0.9
 
 [window.padding]
 x = 10
