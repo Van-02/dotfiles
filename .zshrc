@@ -103,3 +103,10 @@ eval "$(starship init zsh)"
 
 # Created by `pipx` on 2026-01-23 00:12:06
 export PATH="$PATH:/home/van/.local/bin"
+
+# bun completions
+[ -s "/home/van/.local/share/reflex/bun/_bun" ] && source "/home/van/.local/share/reflex/bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.local/share/reflex/bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
