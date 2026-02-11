@@ -11,23 +11,28 @@ return {
 		"nvim-lua/plenary.nvim",
 	},
 	opts = {
+		legacy_commands = false,
 		workspaces = {
 			{
-				name = "Brain", -- Name of the workspace
-				path = os.getenv("HOME") .. "/Work/Brain", -- Path to the notes directory
+				name = "Notes", -- Name of the workspace
+				path = os.getenv("HOME") .. "/Work/Notes", -- Path to the notes directory
 			},
 		},
-		completition = {
+		completion = {
 			cmp = true,
 		},
 		picker = {
 			-- Set your preferred picker. Can be one of 'telescope.nvim', 'fzf-lua', 'mini.pick' or 'snacks.pick'.
-			name = "snacks.pick",
+			name = "fzf-lua",
 		},
 		-- Optional, define your own callbacks to further customize behavior.
 		callbacks = {
 			-- Runs anytime you enter the buffer for a note.
-			enter_note = function(client, note)
+			-- NOTE: Breaking change in obsidian.nvim - callback now receives only (note), not (client, note)
+			enter_note = function(note)
+				if not note then
+					return
+				end
 				-- Setup keymaps for obsidian notes
 				vim.keymap.set("n", "gf", function()
 					return require("obsidian").util.gf_passthrough()

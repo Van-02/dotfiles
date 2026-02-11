@@ -9,9 +9,19 @@ return {
 			},
 		},
 		{
+			"Gentleman-Programming/gentleman-kanagawa-blur",
+			name = "gentleman-kanagawa-blur",
+			priority = 1000,
+			opts = {
+				highlight_overrides = {
+					["@variable.python"] = { fg = "#ABB2BF" },
+				},
+			},
+		},
+		{
 			"LazyVim/LazyVim",
 			opts = {
-				colorscheme = "dracula",
+				colorscheme = "gentleman-kanagawa-blur",
 			},
 		},
 	},
