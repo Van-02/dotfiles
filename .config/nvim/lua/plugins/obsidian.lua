@@ -12,6 +12,7 @@ return {
 	},
 	opts = {
 		legacy_commands = false,
+		new_notes_location = os.getenv("HOME") .. "/Work/Notes/limbo",
 		workspaces = {
 			{
 				name = "Notes", -- Name of the workspace
@@ -23,7 +24,7 @@ return {
 		},
 		picker = {
 			-- Set your preferred picker. Can be one of 'telescope.nvim', 'fzf-lua', 'mini.pick' or 'snacks.pick'.
-			name = "fzf-lua",
+			name = "snacks.pick",
 		},
 		-- Optional, define your own callbacks to further customize behavior.
 		callbacks = {
