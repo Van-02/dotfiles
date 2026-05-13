@@ -42,7 +42,7 @@ keys = [
         # Browser
         ([mod], "b", lazy.spawn("firefox")),
         # File Explorer
-        ([mod], "e", lazy.spawn("pcmanfm")),
+        ([mod], "e", lazy.spawn("thunar")),
         # Terminal
         ([mod], "Return", lazy.spawn("alacritty")),
         # Redshift
