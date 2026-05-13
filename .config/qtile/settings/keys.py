@@ -40,7 +40,7 @@ keys = [
         # Window Nav
         ([mod, "shift"], "m", lazy.spawn("rofi -show")),
         # Browser
-        ([mod], "b", lazy.spawn("zen-browser")),
+        ([mod], "b", lazy.spawn("firefox")),
         # File Explorer
         ([mod], "e", lazy.spawn("pcmanfm")),
         # Terminal
